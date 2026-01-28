@@ -370,7 +370,7 @@
 			]
 		},
 		{
-			"id": 184,
+			"id": 142,
 			"name": "\"scheduler/components/all-day-row-cell.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -380,7 +380,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/all-day-row-cell.d.ts",
 			"children": [
 				{
-					"id": 185,
+					"id": 143,
 					"name": "AllDayRowCell",
 					"kind": 32,
 					"kindString": "Variable",
@@ -412,7 +412,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						185
+						143
 					]
 				}
 			],
@@ -425,7 +425,7 @@
 			]
 		},
 		{
-			"id": 186,
+			"id": 144,
 			"name": "\"scheduler/components/all-day-row.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -435,7 +435,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/all-day-row.d.ts",
 			"children": [
 				{
-					"id": 187,
+					"id": 145,
 					"name": "AllDayRow",
 					"kind": 32,
 					"kindString": "Variable",
@@ -484,7 +484,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						187
+						145
 					]
 				}
 			],
@@ -497,7 +497,7 @@
 			]
 		},
 		{
-			"id": 188,
+			"id": 146,
 			"name": "\"scheduler/components/clone-event.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -507,7 +507,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/clone-event.d.ts",
 			"children": [
 				{
-					"id": 189,
+					"id": 147,
 					"name": "CloneEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -533,7 +533,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						189
+						147
 					]
 				}
 			],
@@ -546,7 +546,7 @@
 			]
 		},
 		{
-			"id": 190,
+			"id": 148,
 			"name": "\"scheduler/components/current-time-indicator.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -556,7 +556,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/current-time-indicator.d.ts",
 			"children": [
 				{
-					"id": 191,
+					"id": 149,
 					"name": "CurrentTimeIndicator",
 					"kind": 32,
 					"kindString": "Variable",
@@ -589,7 +589,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						191
+						149
 					]
 				}
 			],
@@ -602,7 +602,7 @@
 			]
 		},
 		{
-			"id": 192,
+			"id": 150,
 			"name": "\"scheduler/components/date-header.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -612,7 +612,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/date-header.d.ts",
 			"children": [
 				{
-					"id": 193,
+					"id": 151,
 					"name": "DateHeader",
 					"kind": 32,
 					"kindString": "Variable",
@@ -638,7 +638,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						193
+						151
 					]
 				}
 			],
@@ -651,7 +651,7 @@
 			]
 		},
 		{
-			"id": 194,
+			"id": 152,
 			"name": "\"scheduler/components/day-event-clone.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -661,7 +661,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/day-event-clone.d.ts",
 			"children": [
 				{
-					"id": 195,
+					"id": 153,
 					"name": "DayEventClone",
 					"kind": 32,
 					"kindString": "Variable",
@@ -694,7 +694,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						195
+						153
 					]
 				}
 			],
@@ -707,7 +707,7 @@
 			]
 		},
 		{
-			"id": 196,
+			"id": 154,
 			"name": "\"scheduler/components/day-event.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -717,7 +717,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/day-event.d.ts",
 			"children": [
 				{
-					"id": 197,
+					"id": 155,
 					"name": "DayEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -750,7 +750,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						197
+						155
 					]
 				}
 			],
@@ -763,7 +763,7 @@
 			]
 		},
 		{
-			"id": 198,
+			"id": 156,
 			"name": "\"scheduler/components/drag-and-drop.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -773,7 +773,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/drag-and-drop.d.ts",
 			"children": [
 				{
-					"id": 199,
+					"id": 157,
 					"name": "DraggableEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -805,7 +805,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						199
+						157
 					]
 				}
 			],
@@ -818,7 +818,7 @@
 			]
 		},
 		{
-			"id": 200,
+			"id": 158,
 			"name": "\"scheduler/components/month-cells.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -828,7 +828,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/month-cells.d.ts",
 			"children": [
 				{
-					"id": 201,
+					"id": 159,
 					"name": "MonthCells",
 					"kind": 32,
 					"kindString": "Variable",
@@ -861,7 +861,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						201
+						159
 					]
 				}
 			],
@@ -874,7 +874,7 @@
 			]
 		},
 		{
-			"id": 202,
+			"id": 160,
 			"name": "\"scheduler/components/month-row.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -884,7 +884,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/month-row.d.ts",
 			"children": [
 				{
-					"id": 203,
+					"id": 161,
 					"name": "MonthRow",
 					"kind": 32,
 					"kindString": "Variable",
@@ -910,7 +910,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						203
+						161
 					]
 				}
 			],
@@ -923,7 +923,7 @@
 			]
 		},
 		{
-			"id": 204,
+			"id": 162,
 			"name": "\"scheduler/components/more-indicator.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -933,7 +933,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/more-indicator.d.ts",
 			"children": [
 				{
-					"id": 205,
+					"id": 163,
 					"name": "MoreIndicatorProps",
 					"kind": 256,
 					"kindString": "Interface",
@@ -944,7 +944,7 @@
 					"comment": {},
 					"children": [
 						{
-							"id": 207,
+							"id": 165,
 							"name": "count",
 							"kind": 1024,
 							"kindString": "Property",
@@ -964,7 +964,7 @@
 							}
 						},
 						{
-							"id": 206,
+							"id": 164,
 							"name": "date",
 							"kind": 1024,
 							"kindString": "Property",
@@ -984,7 +984,7 @@
 							}
 						},
 						{
-							"id": 208,
+							"id": 166,
 							"name": "onMoreClick",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1001,7 +1001,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 209,
+									"id": 167,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -1010,7 +1010,7 @@
 									},
 									"signatures": [
 										{
-											"id": 210,
+											"id": 168,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -1019,7 +1019,7 @@
 											},
 											"parameters": [
 												{
-													"id": 211,
+													"id": 169,
 													"name": "e",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -1038,7 +1038,7 @@
 													}
 												},
 												{
-													"id": 212,
+													"id": 170,
 													"name": "date",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -1068,7 +1068,7 @@
 							}
 						},
 						{
-							"id": 213,
+							"id": 171,
 							"name": "topPx",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1094,10 +1094,10 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								207,
-								206,
-								208,
-								213
+								165,
+								164,
+								166,
+								171
 							]
 						}
 					],
@@ -1110,7 +1110,7 @@
 					]
 				},
 				{
-					"id": 214,
+					"id": 172,
 					"name": "MoreIndicator",
 					"kind": 32,
 					"kindString": "Variable",
@@ -1130,7 +1130,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 205,
+								"id": 163,
 								"name": "MoreIndicatorProps"
 							}
 						],
@@ -1143,14 +1143,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						205
+						163
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						214
+						172
 					]
 				}
 			],
@@ -3409,7 +3409,7 @@
 			]
 		},
 		{
-			"id": 215,
+			"id": 173,
 			"name": "\"scheduler/components/resizeHandlers.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3419,7 +3419,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/resizeHandlers.d.ts",
 			"children": [
 				{
-					"id": 216,
+					"id": 174,
 					"name": "ResizeHandlers",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3451,7 +3451,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						216
+						174
 					]
 				}
 			],
@@ -3464,7 +3464,7 @@
 			]
 		},
 		{
-			"id": 217,
+			"id": 175,
 			"name": "\"scheduler/components/scheduler-toolbar.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3474,7 +3474,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/scheduler-toolbar.d.ts",
 			"children": [
 				{
-					"id": 218,
+					"id": 176,
 					"name": "SchedulerToolbar",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3520,7 +3520,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						218
+						176
 					]
 				}
 			],
@@ -3533,7 +3533,7 @@
 			]
 		},
 		{
-			"id": 219,
+			"id": 177,
 			"name": "\"scheduler/components/scheduler-tooltip.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3543,7 +3543,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/scheduler-tooltip.d.ts",
 			"children": [
 				{
-					"id": 220,
+					"id": 178,
 					"name": "SchedulerTooltip",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3590,7 +3590,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						220
+						178
 					]
 				}
 			],
@@ -3603,7 +3603,7 @@
 			]
 		},
 		{
-			"id": 221,
+			"id": 179,
 			"name": "\"scheduler/components/time-cells.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3613,7 +3613,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/time-cells.d.ts",
 			"children": [
 				{
-					"id": 222,
+					"id": 180,
 					"name": "TimeCells",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3646,7 +3646,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						222
+						180
 					]
 				}
 			],
@@ -3659,7 +3659,7 @@
 			]
 		},
 		{
-			"id": 223,
+			"id": 181,
 			"name": "\"scheduler/components/time-slot-event-clone.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3669,7 +3669,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/time-slot-event-clone.d.ts",
 			"children": [
 				{
-					"id": 224,
+					"id": 182,
 					"name": "TimeSlotEventClone",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3702,7 +3702,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						224
+						182
 					]
 				}
 			],
@@ -3715,7 +3715,7 @@
 			]
 		},
 		{
-			"id": 225,
+			"id": 183,
 			"name": "\"scheduler/components/time-slot-event.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3725,7 +3725,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/time-slot-event.d.ts",
 			"children": [
 				{
-					"id": 226,
+					"id": 184,
 					"name": "TimeSlotEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3751,7 +3751,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						226
+						184
 					]
 				}
 			],
@@ -3764,7 +3764,7 @@
 			]
 		},
 		{
-			"id": 227,
+			"id": 185,
 			"name": "\"scheduler/components/week-day-header.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3774,7 +3774,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/week-day-header.d.ts",
 			"children": [
 				{
-					"id": 228,
+					"id": 186,
 					"name": "WeekDayHeader",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3800,7 +3800,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						228
+						186
 					]
 				}
 			],
@@ -3813,7 +3813,7 @@
 			]
 		},
 		{
-			"id": 229,
+			"id": 187,
 			"name": "\"scheduler/components/work-cells.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3823,7 +3823,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/work-cells.d.ts",
 			"children": [
 				{
-					"id": 230,
+					"id": 188,
 					"name": "WorkCells",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3849,7 +3849,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						230
+						188
 					]
 				}
 			],
@@ -3862,7 +3862,7 @@
 			]
 		},
 		{
-			"id": 142,
+			"id": 189,
 			"name": "\"scheduler/context/clone-event-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3872,7 +3872,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/context/clone-event-context.d.ts",
 			"children": [
 				{
-					"id": 143,
+					"id": 190,
 					"name": "CloneEventContextValue",
 					"kind": 256,
 					"kindString": "Interface",
@@ -3883,7 +3883,7 @@
 					"comment": {},
 					"children": [
 						{
-							"id": 152,
+							"id": 199,
 							"name": "guid",
 							"kind": 1024,
 							"kindString": "Property",
@@ -3904,12 +3904,12 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 152,
+								"id": 199,
 								"name": "CloneEventData.guid"
 							}
 						},
 						{
-							"id": 148,
+							"id": 195,
 							"name": "hide",
 							"kind": 1024,
 							"kindString": "Property",
@@ -3926,7 +3926,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 149,
+									"id": 196,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -3935,7 +3935,7 @@
 									},
 									"signatures": [
 										{
-											"id": 150,
+											"id": 197,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -3959,7 +3959,7 @@
 							}
 						},
 						{
-							"id": 154,
+							"id": 201,
 							"name": "isDayEvent",
 							"kind": 1024,
 							"kindString": "Property",
@@ -3980,12 +3980,12 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 154,
+								"id": 201,
 								"name": "CloneEventData.isDayEvent"
 							}
 						},
 						{
-							"id": 153,
+							"id": 200,
 							"name": "segments",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4010,12 +4010,12 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 153,
+								"id": 200,
 								"name": "CloneEventData.segments"
 							}
 						},
 						{
-							"id": 144,
+							"id": 191,
 							"name": "show",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4032,7 +4032,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 145,
+									"id": 192,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -4041,7 +4041,7 @@
 									},
 									"signatures": [
 										{
-											"id": 146,
+											"id": 193,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -4050,7 +4050,7 @@
 											},
 											"parameters": [
 												{
-													"id": 147,
+													"id": 194,
 													"name": "payload",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -4080,7 +4080,7 @@
 							}
 						},
 						{
-							"id": 151,
+							"id": 198,
 							"name": "visible",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4100,7 +4100,7 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 151,
+								"id": 198,
 								"name": "CloneEventState.visible"
 							}
 						}
@@ -4110,12 +4110,12 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								152,
-								148,
-								154,
-								153,
-								144,
-								151
+								199,
+								195,
+								201,
+								200,
+								191,
+								198
 							]
 						}
 					],
@@ -4134,7 +4134,7 @@
 					]
 				},
 				{
-					"id": 155,
+					"id": 202,
 					"name": "CloneEventProvider",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4155,7 +4155,7 @@
 							{
 								"type": "reflection",
 								"declaration": {
-									"id": 156,
+									"id": 203,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -4164,7 +4164,7 @@
 									},
 									"children": [
 										{
-											"id": 157,
+											"id": 204,
 											"name": "children",
 											"kind": 32,
 											"kindString": "Variable",
@@ -4189,7 +4189,7 @@
 											"title": "Variables",
 											"kind": 32,
 											"children": [
-												157
+												204
 											]
 										}
 									],
@@ -4207,7 +4207,7 @@
 					}
 				},
 				{
-					"id": 158,
+					"id": 205,
 					"name": "useCloneEventContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4225,7 +4225,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 159,
+							"id": 206,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -4234,7 +4234,7 @@
 							},
 							"signatures": [
 								{
-									"id": 160,
+									"id": 207,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -4243,7 +4243,7 @@
 									},
 									"type": {
 										"type": "reference",
-										"id": 143,
+										"id": 190,
 										"name": "CloneEventContextValue"
 									}
 								}
@@ -4264,15 +4264,15 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						143
+						190
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						155,
-						158
+						202,
+						205
 					]
 				}
 			],
@@ -4285,7 +4285,7 @@
 			]
 		},
 		{
-			"id": 161,
+			"id": 208,
 			"name": "\"scheduler/context/scheduler-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4295,7 +4295,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/context/scheduler-context.d.ts",
 			"children": [
 				{
-					"id": 162,
+					"id": 209,
 					"name": "SchedulerContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4332,7 +4332,7 @@
 					}
 				},
 				{
-					"id": 163,
+					"id": 210,
 					"name": "useSchedulerPropsContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4359,7 +4359,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 164,
+							"id": 211,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -4368,7 +4368,7 @@
 							},
 							"signatures": [
 								{
-									"id": 165,
+									"id": 212,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -4398,8 +4398,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						162,
-						163
+						209,
+						210
 					]
 				}
 			],
@@ -4412,7 +4412,7 @@
 			]
 		},
 		{
-			"id": 166,
+			"id": 213,
 			"name": "\"scheduler/context/scheduler-events-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4422,7 +4422,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/context/scheduler-events-context.d.ts",
 			"children": [
 				{
-					"id": 167,
+					"id": 214,
 					"name": "SchedulerEventsContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4446,7 +4446,7 @@
 									{
 										"type": "reflection",
 										"declaration": {
-											"id": 168,
+											"id": 215,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -4455,7 +4455,7 @@
 											},
 											"children": [
 												{
-													"id": 169,
+													"id": 216,
 													"name": "eventsData",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4485,7 +4485,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														169
+														216
 													]
 												}
 											],
@@ -4509,7 +4509,7 @@
 					}
 				},
 				{
-					"id": 170,
+					"id": 217,
 					"name": "useSchedulerEventsContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4536,7 +4536,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 171,
+							"id": 218,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -4545,7 +4545,7 @@
 							},
 							"signatures": [
 								{
-									"id": 172,
+									"id": 219,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -4555,7 +4555,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 173,
+											"id": 220,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -4564,7 +4564,7 @@
 											},
 											"children": [
 												{
-													"id": 174,
+													"id": 221,
 													"name": "eventsData",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4594,7 +4594,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														174
+														221
 													]
 												}
 											],
@@ -4625,8 +4625,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						167,
-						170
+						214,
+						217
 					]
 				}
 			],
@@ -4639,7 +4639,7 @@
 			]
 		},
 		{
-			"id": 175,
+			"id": 222,
 			"name": "\"scheduler/context/scheduler-render-dates-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4649,7 +4649,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/context/scheduler-render-dates-context.d.ts",
 			"children": [
 				{
-					"id": 176,
+					"id": 223,
 					"name": "SchedulerRenderDatesContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4673,7 +4673,7 @@
 									{
 										"type": "reflection",
 										"declaration": {
-											"id": 177,
+											"id": 224,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -4682,7 +4682,7 @@
 											},
 											"children": [
 												{
-													"id": 178,
+													"id": 225,
 													"name": "renderDates",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4711,7 +4711,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														178
+														225
 													]
 												}
 											],
@@ -4735,7 +4735,7 @@
 					}
 				},
 				{
-					"id": 179,
+					"id": 226,
 					"name": "useSchedulerRenderDatesContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4762,7 +4762,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 180,
+							"id": 227,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -4771,7 +4771,7 @@
 							},
 							"signatures": [
 								{
-									"id": 181,
+									"id": 228,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -4781,7 +4781,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 182,
+											"id": 229,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -4790,7 +4790,7 @@
 											},
 											"children": [
 												{
-													"id": 183,
+													"id": 230,
 													"name": "renderDates",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4819,7 +4819,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														183
+														230
 													]
 												}
 											],
@@ -4850,8 +4850,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						176,
-						179
+						223,
+						226
 					]
 				}
 			],
@@ -46130,33 +46130,33 @@
 				1,
 				127,
 				129,
-				184,
-				186,
-				188,
-				190,
-				192,
-				194,
-				196,
-				198,
-				200,
-				202,
-				204,
+				142,
+				144,
+				146,
+				148,
+				150,
+				152,
+				154,
+				156,
+				158,
+				160,
+				162,
 				1961,
 				1963,
 				1971,
 				1980,
-				215,
-				217,
-				219,
-				221,
-				223,
-				225,
-				227,
-				229,
-				142,
-				161,
-				166,
+				173,
 				175,
+				177,
+				179,
+				181,
+				183,
+				185,
+				187,
+				189,
+				208,
+				213,
+				222,
 				231,
 				237,
 				259,
