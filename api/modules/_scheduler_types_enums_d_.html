@@ -2364,10 +2364,19 @@ img {
 <nav class="tsd-navigation secondary">
 	<ul>
 		<li class=" tsd-kind-type-alias tsd-parent-kind-external-module">
+			<a href="_scheduler_types_enums_d_.html#editoraction" class="tsd-kind-icon">Editor<wbr>Action</a>
+		</li>
+		<li class=" tsd-kind-type-alias tsd-parent-kind-external-module">
+			<a href="_scheduler_types_enums_d_.html#editortype" class="tsd-kind-icon">Editor<wbr>Type</a>
+		</li>
+		<li class=" tsd-kind-type-alias tsd-parent-kind-external-module">
 			<a href="_scheduler_types_enums_d_.html#spannedeventplacement" class="tsd-kind-icon">Spanned<wbr>Event<wbr>Placement</a>
 		</li>
 		<li class=" tsd-kind-type-alias tsd-parent-kind-external-module">
 			<a href="_scheduler_types_enums_d_.html#view" class="tsd-kind-icon">View</a>
+		</li>
+		<li class=" tsd-kind-type-alias tsd-parent-kind-external-module">
+			<a href="_scheduler_types_enums_d_.html#weekrule" class="tsd-kind-icon">Week<wbr>Rule</a>
 		</li>
 	</ul>
 </nav>
@@ -2380,8 +2389,11 @@ img {
 					<section class="tsd-index-section ">
 						<h3>Type aliases</h3>
 						<ul class="tsd-index-list">
+							<li class="tsd-kind-type-alias tsd-parent-kind-external-module"><a href="_scheduler_types_enums_d_.html#editoraction" class="tsd-kind-icon">Editor<wbr>Action</a></li>
+							<li class="tsd-kind-type-alias tsd-parent-kind-external-module"><a href="_scheduler_types_enums_d_.html#editortype" class="tsd-kind-icon">Editor<wbr>Type</a></li>
 							<li class="tsd-kind-type-alias tsd-parent-kind-external-module"><a href="_scheduler_types_enums_d_.html#spannedeventplacement" class="tsd-kind-icon">Spanned<wbr>Event<wbr>Placement</a></li>
 							<li class="tsd-kind-type-alias tsd-parent-kind-external-module"><a href="_scheduler_types_enums_d_.html#view" class="tsd-kind-icon">View</a></li>
+							<li class="tsd-kind-type-alias tsd-parent-kind-external-module"><a href="_scheduler_types_enums_d_.html#weekrule" class="tsd-kind-icon">Week<wbr>Rule</a></li>
 						</ul>
 					</section>
 				</div>
@@ -2389,6 +2401,40 @@ img {
 		</section>
 		<section class="tsd-panel-group tsd-member-group ">
 			<h2>Type aliases</h2>
+			<section class="tsd-panel tsd-member tsd-kind-type-alias tsd-parent-kind-external-module">
+				<a name="editoraction" class="tsd-anchor"></a>
+				<h3>Editor<wbr>Action</h3>
+				<div class="tsd-signature tsd-kind-icon">Editor<wbr>Action<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">"Add"</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">"Edit"</span></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in src/scheduler/types/enums.d.ts:28</li>
+					</ul>
+				</aside>
+				<div class="tsd-comment tsd-typography">
+					<div class="lead">
+						<p>An enum that represents the action performed when opening the editor.</p>
+					</div>
+					<p>Add: Opens the editor to create a new event.
+					Edit: Opens the editor to modify an existing event.</p>
+				</div>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-type-alias tsd-parent-kind-external-module">
+				<a name="editortype" class="tsd-anchor"></a>
+				<h3>Editor<wbr>Type</h3>
+				<div class="tsd-signature tsd-kind-icon">Editor<wbr>Type<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">"Cell"</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">"Event"</span></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in src/scheduler/types/enums.d.ts:35</li>
+					</ul>
+				</aside>
+				<div class="tsd-comment tsd-typography">
+					<div class="lead">
+						<p>An enum that represents the context type used to open the editor.</p>
+					</div>
+					<p>cell: Editor is opened from a cell context (creating new).
+					event: Editor is opened from an event context (editing existing).</p>
+				</div>
+			</section>
 			<section class="tsd-panel tsd-member tsd-kind-type-alias tsd-parent-kind-external-module">
 				<a name="spannedeventplacement" class="tsd-anchor"></a>
 				<h3>Spanned<wbr>Event<wbr>Placement</h3>
@@ -2418,6 +2464,24 @@ TimeSlot :- Denotes the rendering of spanned events in an time slot row.</code><
 				<div class="tsd-comment tsd-typography">
 					<div class="lead">
 						<p>Defines the view options for the Scheduler component.</p>
+					</div>
+				</div>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-type-alias tsd-parent-kind-external-module">
+				<a name="weekrule" class="tsd-anchor"></a>
+				<h3>Week<wbr>Rule</h3>
+				<div class="tsd-signature tsd-kind-icon">Week<wbr>Rule<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">"FirstDay"</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">"FirstFourDayWeek"</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">"FirstFullWeek"</span></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in src/scheduler/types/enums.d.ts:21</li>
+					</ul>
+				</aside>
+				<div class="tsd-comment tsd-typography">
+					<div class="lead">
+						<p>An enum that holds the options to render the week number based on different rules.</p>
+						<pre><code class="language-props">FirstDay:- Denotes that the first week of the year starts on the first day of the year and ends before the following designated first day of the week.
+FirstFourDayWeek:- Denotes that the first week of the year is the first week with four or more days before the designated first day of the week.
+FirstFullWeek:- Denotes that the first week of the year begins on the first occurrence of the designated first day of the week on or after the first day of the year.</code></pre>
 					</div>
 				</div>
 			</section>
