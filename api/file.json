@@ -370,7 +370,7 @@
 			]
 		},
 		{
-			"id": 211,
+			"id": 169,
 			"name": "\"scheduler/components/all-day-row-cell.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -380,7 +380,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/all-day-row-cell.d.ts",
 			"children": [
 				{
-					"id": 212,
+					"id": 170,
 					"name": "AllDayRowCell",
 					"kind": 32,
 					"kindString": "Variable",
@@ -412,7 +412,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						212
+						170
 					]
 				}
 			],
@@ -425,7 +425,7 @@
 			]
 		},
 		{
-			"id": 213,
+			"id": 171,
 			"name": "\"scheduler/components/all-day-row.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -435,7 +435,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/all-day-row.d.ts",
 			"children": [
 				{
-					"id": 214,
+					"id": 172,
 					"name": "AllDayRow",
 					"kind": 32,
 					"kindString": "Variable",
@@ -484,7 +484,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						214
+						172
 					]
 				}
 			],
@@ -497,7 +497,7 @@
 			]
 		},
 		{
-			"id": 215,
+			"id": 173,
 			"name": "\"scheduler/components/clone-event.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -507,7 +507,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/clone-event.d.ts",
 			"children": [
 				{
-					"id": 216,
+					"id": 174,
 					"name": "CloneEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -533,7 +533,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						216
+						174
 					]
 				}
 			],
@@ -546,7 +546,7 @@
 			]
 		},
 		{
-			"id": 217,
+			"id": 175,
 			"name": "\"scheduler/components/current-time-indicator.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -556,7 +556,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/current-time-indicator.d.ts",
 			"children": [
 				{
-					"id": 218,
+					"id": 176,
 					"name": "CurrentTimeIndicator",
 					"kind": 32,
 					"kindString": "Variable",
@@ -589,7 +589,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						218
+						176
 					]
 				}
 			],
@@ -602,7 +602,7 @@
 			]
 		},
 		{
-			"id": 219,
+			"id": 177,
 			"name": "\"scheduler/components/date-header.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -612,7 +612,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/date-header.d.ts",
 			"children": [
 				{
-					"id": 220,
+					"id": 178,
 					"name": "DateHeader",
 					"kind": 32,
 					"kindString": "Variable",
@@ -638,7 +638,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						220
+						178
 					]
 				}
 			],
@@ -651,7 +651,7 @@
 			]
 		},
 		{
-			"id": 221,
+			"id": 179,
 			"name": "\"scheduler/components/day-event-clone.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -661,7 +661,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/day-event-clone.d.ts",
 			"children": [
 				{
-					"id": 222,
+					"id": 180,
 					"name": "DayEventClone",
 					"kind": 32,
 					"kindString": "Variable",
@@ -694,7 +694,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						222
+						180
 					]
 				}
 			],
@@ -707,7 +707,7 @@
 			]
 		},
 		{
-			"id": 223,
+			"id": 181,
 			"name": "\"scheduler/components/day-event.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -717,7 +717,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/day-event.d.ts",
 			"children": [
 				{
-					"id": 224,
+					"id": 182,
 					"name": "DayEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -750,7 +750,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						224
+						182
 					]
 				}
 			],
@@ -763,7 +763,7 @@
 			]
 		},
 		{
-			"id": 225,
+			"id": 183,
 			"name": "\"scheduler/components/drag-and-drop.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -773,7 +773,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/drag-and-drop.d.ts",
 			"children": [
 				{
-					"id": 226,
+					"id": 184,
 					"name": "DraggableEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -805,7 +805,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						226
+						184
 					]
 				}
 			],
@@ -818,7 +818,7 @@
 			]
 		},
 		{
-			"id": 227,
+			"id": 185,
 			"name": "\"scheduler/components/external-drag-and-drop.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -828,7 +828,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/external-drag-and-drop.d.ts",
 			"children": [
 				{
-					"id": 228,
+					"id": 186,
 					"name": "ExternalDragAndDrop",
 					"kind": 32,
 					"kindString": "Variable",
@@ -854,7 +854,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						228
+						186
 					]
 				}
 			],
@@ -867,7 +867,7 @@
 			]
 		},
 		{
-			"id": 229,
+			"id": 187,
 			"name": "\"scheduler/components/external-native-dnd.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -877,7 +877,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/external-native-dnd.d.ts",
 			"children": [
 				{
-					"id": 230,
+					"id": 188,
 					"name": "ExternalNativeDnd",
 					"kind": 32,
 					"kindString": "Variable",
@@ -903,7 +903,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						230
+						188
 					]
 				}
 			],
@@ -916,7 +916,7 @@
 			]
 		},
 		{
-			"id": 231,
+			"id": 189,
 			"name": "\"scheduler/components/month-cells.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -926,7 +926,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/month-cells.d.ts",
 			"children": [
 				{
-					"id": 232,
+					"id": 190,
 					"name": "MonthCells",
 					"kind": 32,
 					"kindString": "Variable",
@@ -959,7 +959,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						232
+						190
 					]
 				}
 			],
@@ -972,7 +972,7 @@
 			]
 		},
 		{
-			"id": 233,
+			"id": 191,
 			"name": "\"scheduler/components/month-row.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -982,7 +982,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/month-row.d.ts",
 			"children": [
 				{
-					"id": 234,
+					"id": 192,
 					"name": "MonthRow",
 					"kind": 32,
 					"kindString": "Variable",
@@ -1008,7 +1008,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						234
+						192
 					]
 				}
 			],
@@ -1021,7 +1021,7 @@
 			]
 		},
 		{
-			"id": 235,
+			"id": 193,
 			"name": "\"scheduler/components/more-indicator.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -1031,7 +1031,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/more-indicator.d.ts",
 			"children": [
 				{
-					"id": 236,
+					"id": 194,
 					"name": "MoreIndicatorProps",
 					"kind": 256,
 					"kindString": "Interface",
@@ -1042,7 +1042,7 @@
 					"comment": {},
 					"children": [
 						{
-							"id": 238,
+							"id": 196,
 							"name": "count",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1062,7 +1062,7 @@
 							}
 						},
 						{
-							"id": 237,
+							"id": 195,
 							"name": "date",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1082,7 +1082,7 @@
 							}
 						},
 						{
-							"id": 239,
+							"id": 197,
 							"name": "onMoreClick",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1099,7 +1099,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 240,
+									"id": 198,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -1108,7 +1108,7 @@
 									},
 									"signatures": [
 										{
-											"id": 241,
+											"id": 199,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -1117,7 +1117,7 @@
 											},
 											"parameters": [
 												{
-													"id": 242,
+													"id": 200,
 													"name": "e",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -1136,7 +1136,7 @@
 													}
 												},
 												{
-													"id": 243,
+													"id": 201,
 													"name": "date",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -1166,7 +1166,7 @@
 							}
 						},
 						{
-							"id": 244,
+							"id": 202,
 							"name": "topPx",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1192,10 +1192,10 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								238,
-								237,
-								239,
-								244
+								196,
+								195,
+								197,
+								202
 							]
 						}
 					],
@@ -1208,7 +1208,7 @@
 					]
 				},
 				{
-					"id": 245,
+					"id": 203,
 					"name": "MoreIndicator",
 					"kind": 32,
 					"kindString": "Variable",
@@ -1228,7 +1228,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 236,
+								"id": 194,
 								"name": "MoreIndicatorProps"
 							}
 						],
@@ -1241,14 +1241,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						236
+						194
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						245
+						203
 					]
 				}
 			],
@@ -1367,7 +1367,7 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 355,
+								"id": 313,
 								"name": "UseEditorPopupResult"
 							}
 						},
@@ -3507,7 +3507,7 @@
 			]
 		},
 		{
-			"id": 246,
+			"id": 204,
 			"name": "\"scheduler/components/resizeHandlers.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3517,7 +3517,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/resizeHandlers.d.ts",
 			"children": [
 				{
-					"id": 247,
+					"id": 205,
 					"name": "ResizeHandlers",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3549,7 +3549,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						247
+						205
 					]
 				}
 			],
@@ -3562,7 +3562,7 @@
 			]
 		},
 		{
-			"id": 248,
+			"id": 206,
 			"name": "\"scheduler/components/scheduler-header.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3572,7 +3572,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/scheduler-header.d.ts",
 			"children": [
 				{
-					"id": 249,
+					"id": 207,
 					"name": "SchedulerHeader",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3624,7 +3624,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						249
+						207
 					]
 				}
 			],
@@ -3637,7 +3637,7 @@
 			]
 		},
 		{
-			"id": 250,
+			"id": 208,
 			"name": "\"scheduler/components/scheduler-toolbar.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3647,7 +3647,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/scheduler-toolbar.d.ts",
 			"children": [
 				{
-					"id": 254,
+					"id": 212,
 					"name": "DateRangeButton",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3693,7 +3693,7 @@
 					}
 				},
 				{
-					"id": 253,
+					"id": 211,
 					"name": "NextButton",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3735,7 +3735,7 @@
 					}
 				},
 				{
-					"id": 252,
+					"id": 210,
 					"name": "PreviousButton",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3777,7 +3777,7 @@
 					}
 				},
 				{
-					"id": 256,
+					"id": 214,
 					"name": "SchedulerToolbar",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3818,7 +3818,7 @@
 					}
 				},
 				{
-					"id": 251,
+					"id": 209,
 					"name": "TodayButton",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3860,7 +3860,7 @@
 					}
 				},
 				{
-					"id": 255,
+					"id": 213,
 					"name": "ViewButton",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3907,12 +3907,12 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						254,
-						253,
-						252,
-						256,
-						251,
-						255
+						212,
+						211,
+						210,
+						214,
+						209,
+						213
 					]
 				}
 			],
@@ -3925,7 +3925,7 @@
 			]
 		},
 		{
-			"id": 257,
+			"id": 215,
 			"name": "\"scheduler/components/scheduler-tooltip.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3935,7 +3935,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/scheduler-tooltip.d.ts",
 			"children": [
 				{
-					"id": 258,
+					"id": 216,
 					"name": "SchedulerTooltip",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3982,7 +3982,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						258
+						216
 					]
 				}
 			],
@@ -3995,7 +3995,7 @@
 			]
 		},
 		{
-			"id": 259,
+			"id": 217,
 			"name": "\"scheduler/components/time-cells.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4005,7 +4005,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/time-cells.d.ts",
 			"children": [
 				{
-					"id": 260,
+					"id": 218,
 					"name": "TimeCells",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4038,7 +4038,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						260
+						218
 					]
 				}
 			],
@@ -4051,7 +4051,7 @@
 			]
 		},
 		{
-			"id": 261,
+			"id": 219,
 			"name": "\"scheduler/components/time-slot-event-clone.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4061,7 +4061,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/time-slot-event-clone.d.ts",
 			"children": [
 				{
-					"id": 262,
+					"id": 220,
 					"name": "TimeSlotEventClone",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4094,7 +4094,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						262
+						220
 					]
 				}
 			],
@@ -4107,7 +4107,7 @@
 			]
 		},
 		{
-			"id": 263,
+			"id": 221,
 			"name": "\"scheduler/components/time-slot-event.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4117,7 +4117,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/time-slot-event.d.ts",
 			"children": [
 				{
-					"id": 264,
+					"id": 222,
 					"name": "TimeSlotEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4143,7 +4143,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						264
+						222
 					]
 				}
 			],
@@ -4156,7 +4156,7 @@
 			]
 		},
 		{
-			"id": 265,
+			"id": 223,
 			"name": "\"scheduler/components/week-day-header.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4166,7 +4166,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/week-day-header.d.ts",
 			"children": [
 				{
-					"id": 266,
+					"id": 224,
 					"name": "WeekDayHeader",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4192,7 +4192,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						266
+						224
 					]
 				}
 			],
@@ -4205,7 +4205,7 @@
 			]
 		},
 		{
-			"id": 267,
+			"id": 225,
 			"name": "\"scheduler/components/work-cells.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4215,7 +4215,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/components/work-cells.d.ts",
 			"children": [
 				{
-					"id": 268,
+					"id": 226,
 					"name": "WorkCells",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4241,7 +4241,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						268
+						226
 					]
 				}
 			],
@@ -4254,7 +4254,7 @@
 			]
 		},
 		{
-			"id": 169,
+			"id": 681,
 			"name": "\"scheduler/context/clone-event-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4264,7 +4264,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/context/clone-event-context.d.ts",
 			"children": [
 				{
-					"id": 170,
+					"id": 682,
 					"name": "CloneEventContextValue",
 					"kind": 256,
 					"kindString": "Interface",
@@ -4275,7 +4275,7 @@
 					"comment": {},
 					"children": [
 						{
-							"id": 179,
+							"id": 691,
 							"name": "guid",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4296,12 +4296,12 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 179,
+								"id": 691,
 								"name": "CloneEventData.guid"
 							}
 						},
 						{
-							"id": 175,
+							"id": 687,
 							"name": "hide",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4318,7 +4318,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 176,
+									"id": 688,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -4327,7 +4327,7 @@
 									},
 									"signatures": [
 										{
-											"id": 177,
+											"id": 689,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -4351,7 +4351,7 @@
 							}
 						},
 						{
-							"id": 181,
+							"id": 693,
 							"name": "isDayEvent",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4372,12 +4372,12 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 181,
+								"id": 693,
 								"name": "CloneEventData.isDayEvent"
 							}
 						},
 						{
-							"id": 180,
+							"id": 692,
 							"name": "segments",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4402,12 +4402,12 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 180,
+								"id": 692,
 								"name": "CloneEventData.segments"
 							}
 						},
 						{
-							"id": 171,
+							"id": 683,
 							"name": "show",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4424,7 +4424,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 172,
+									"id": 684,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -4433,7 +4433,7 @@
 									},
 									"signatures": [
 										{
-											"id": 173,
+											"id": 685,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -4442,7 +4442,7 @@
 											},
 											"parameters": [
 												{
-													"id": 174,
+													"id": 686,
 													"name": "payload",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -4472,7 +4472,7 @@
 							}
 						},
 						{
-							"id": 178,
+							"id": 690,
 							"name": "visible",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4492,7 +4492,7 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 178,
+								"id": 690,
 								"name": "CloneEventState.visible"
 							}
 						}
@@ -4502,12 +4502,12 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								179,
-								175,
-								181,
-								180,
-								171,
-								178
+								691,
+								687,
+								693,
+								692,
+								683,
+								690
 							]
 						}
 					],
@@ -4526,7 +4526,7 @@
 					]
 				},
 				{
-					"id": 182,
+					"id": 694,
 					"name": "CloneEventProvider",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4547,7 +4547,7 @@
 							{
 								"type": "reflection",
 								"declaration": {
-									"id": 183,
+									"id": 695,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -4556,7 +4556,7 @@
 									},
 									"children": [
 										{
-											"id": 184,
+											"id": 696,
 											"name": "children",
 											"kind": 32,
 											"kindString": "Variable",
@@ -4581,7 +4581,7 @@
 											"title": "Variables",
 											"kind": 32,
 											"children": [
-												184
+												696
 											]
 										}
 									],
@@ -4599,7 +4599,7 @@
 					}
 				},
 				{
-					"id": 185,
+					"id": 697,
 					"name": "useCloneEventContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4617,7 +4617,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 186,
+							"id": 698,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -4626,7 +4626,7 @@
 							},
 							"signatures": [
 								{
-									"id": 187,
+									"id": 699,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -4635,7 +4635,7 @@
 									},
 									"type": {
 										"type": "reference",
-										"id": 170,
+										"id": 682,
 										"name": "CloneEventContextValue"
 									}
 								}
@@ -4656,15 +4656,15 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						170
+						682
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						182,
-						185
+						694,
+						697
 					]
 				}
 			],
@@ -4677,7 +4677,7 @@
 			]
 		},
 		{
-			"id": 188,
+			"id": 700,
 			"name": "\"scheduler/context/scheduler-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4687,7 +4687,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/context/scheduler-context.d.ts",
 			"children": [
 				{
-					"id": 189,
+					"id": 701,
 					"name": "SchedulerContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4724,7 +4724,7 @@
 					}
 				},
 				{
-					"id": 190,
+					"id": 702,
 					"name": "useSchedulerPropsContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4751,7 +4751,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 191,
+							"id": 703,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -4760,7 +4760,7 @@
 							},
 							"signatures": [
 								{
-									"id": 192,
+									"id": 704,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -4790,8 +4790,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						189,
-						190
+						701,
+						702
 					]
 				}
 			],
@@ -4804,7 +4804,7 @@
 			]
 		},
 		{
-			"id": 193,
+			"id": 705,
 			"name": "\"scheduler/context/scheduler-events-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4814,7 +4814,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/context/scheduler-events-context.d.ts",
 			"children": [
 				{
-					"id": 194,
+					"id": 706,
 					"name": "SchedulerEventsContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4838,7 +4838,7 @@
 									{
 										"type": "reflection",
 										"declaration": {
-											"id": 195,
+											"id": 707,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -4847,7 +4847,7 @@
 											},
 											"children": [
 												{
-													"id": 196,
+													"id": 708,
 													"name": "eventsData",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4877,7 +4877,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														196
+														708
 													]
 												}
 											],
@@ -4901,7 +4901,7 @@
 					}
 				},
 				{
-					"id": 197,
+					"id": 709,
 					"name": "useSchedulerEventsContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4928,7 +4928,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 198,
+							"id": 710,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -4937,7 +4937,7 @@
 							},
 							"signatures": [
 								{
-									"id": 199,
+									"id": 711,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -4947,7 +4947,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 200,
+											"id": 712,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -4956,7 +4956,7 @@
 											},
 											"children": [
 												{
-													"id": 201,
+													"id": 713,
 													"name": "eventsData",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4986,7 +4986,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														201
+														713
 													]
 												}
 											],
@@ -5017,8 +5017,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						194,
-						197
+						706,
+						709
 					]
 				}
 			],
@@ -5031,7 +5031,7 @@
 			]
 		},
 		{
-			"id": 202,
+			"id": 714,
 			"name": "\"scheduler/context/scheduler-render-dates-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -5041,7 +5041,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/context/scheduler-render-dates-context.d.ts",
 			"children": [
 				{
-					"id": 203,
+					"id": 715,
 					"name": "SchedulerRenderDatesContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -5065,7 +5065,7 @@
 									{
 										"type": "reflection",
 										"declaration": {
-											"id": 204,
+											"id": 716,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -5074,7 +5074,7 @@
 											},
 											"children": [
 												{
-													"id": 205,
+													"id": 717,
 													"name": "renderDates",
 													"kind": 32,
 													"kindString": "Variable",
@@ -5103,7 +5103,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														205
+														717
 													]
 												}
 											],
@@ -5127,7 +5127,7 @@
 					}
 				},
 				{
-					"id": 206,
+					"id": 718,
 					"name": "useSchedulerRenderDatesContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -5154,7 +5154,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 207,
+							"id": 719,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -5163,7 +5163,7 @@
 							},
 							"signatures": [
 								{
-									"id": 208,
+									"id": 720,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -5173,7 +5173,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 209,
+											"id": 721,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -5182,7 +5182,7 @@
 											},
 											"children": [
 												{
-													"id": 210,
+													"id": 722,
 													"name": "renderDates",
 													"kind": 32,
 													"kindString": "Variable",
@@ -5211,7 +5211,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														210
+														722
 													]
 												}
 											],
@@ -5242,8 +5242,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						203,
-						206
+						715,
+						718
 					]
 				}
 			],
@@ -5256,7 +5256,7 @@
 			]
 		},
 		{
-			"id": 269,
+			"id": 227,
 			"name": "\"scheduler/hooks/useAllDayEvents.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -5266,7 +5266,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useAllDayEvents.d.ts",
 			"children": [
 				{
-					"id": 270,
+					"id": 228,
 					"name": "useAllDayEvents",
 					"kind": 32,
 					"kindString": "Variable",
@@ -5304,7 +5304,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 271,
+							"id": 229,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -5313,7 +5313,7 @@
 							},
 							"signatures": [
 								{
-									"id": 272,
+									"id": 230,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -5322,7 +5322,7 @@
 									},
 									"parameters": [
 										{
-											"id": 273,
+											"id": 231,
 											"name": "isCollapsed",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -5335,7 +5335,7 @@
 											}
 										},
 										{
-											"id": 274,
+											"id": 232,
 											"name": "maxEventsPerRow",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -5371,7 +5371,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						270
+						228
 					]
 				}
 			],
@@ -5384,7 +5384,7 @@
 			]
 		},
 		{
-			"id": 275,
+			"id": 233,
 			"name": "\"scheduler/hooks/useCellInteraction.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -5394,7 +5394,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useCellInteraction.d.ts",
 			"children": [
 				{
-					"id": 276,
+					"id": 234,
 					"name": "CellInteraction",
 					"kind": 256,
 					"kindString": "Interface",
@@ -5405,7 +5405,7 @@
 					"comment": {},
 					"children": [
 						{
-							"id": 277,
+							"id": 235,
 							"name": "handleCellClick",
 							"kind": 1024,
 							"kindString": "Property",
@@ -5425,7 +5425,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 278,
+									"id": 236,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -5434,7 +5434,7 @@
 									},
 									"signatures": [
 										{
-											"id": 279,
+											"id": 237,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -5443,7 +5443,7 @@
 											},
 											"parameters": [
 												{
-													"id": 280,
+													"id": 238,
 													"name": "e",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -5477,7 +5477,7 @@
 													}
 												},
 												{
-													"id": 281,
+													"id": 239,
 													"name": "date",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -5490,7 +5490,7 @@
 													}
 												},
 												{
-													"id": 282,
+													"id": 240,
 													"name": "isAllDay",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -5521,7 +5521,7 @@
 							}
 						},
 						{
-							"id": 283,
+							"id": 241,
 							"name": "handleCellDoubleClick",
 							"kind": 1024,
 							"kindString": "Property",
@@ -5541,7 +5541,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 284,
+									"id": 242,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -5550,7 +5550,7 @@
 									},
 									"signatures": [
 										{
-											"id": 285,
+											"id": 243,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -5559,7 +5559,7 @@
 											},
 											"parameters": [
 												{
-													"id": 286,
+													"id": 244,
 													"name": "e",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -5578,7 +5578,7 @@
 													}
 												},
 												{
-													"id": 287,
+													"id": 245,
 													"name": "date",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -5591,7 +5591,7 @@
 													}
 												},
 												{
-													"id": 288,
+													"id": 246,
 													"name": "isAllDay",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -5622,7 +5622,7 @@
 							}
 						},
 						{
-							"id": 289,
+							"id": 247,
 							"name": "handleKeyDown",
 							"kind": 1024,
 							"kindString": "Property",
@@ -5642,7 +5642,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 290,
+									"id": 248,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -5651,7 +5651,7 @@
 									},
 									"signatures": [
 										{
-											"id": 291,
+											"id": 249,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -5660,7 +5660,7 @@
 											},
 											"parameters": [
 												{
-													"id": 292,
+													"id": 250,
 													"name": "e",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -5679,7 +5679,7 @@
 													}
 												},
 												{
-													"id": 293,
+													"id": 251,
 													"name": "date",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -5714,9 +5714,9 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								277,
-								283,
-								289
+								235,
+								241,
+								247
 							]
 						}
 					],
@@ -5729,7 +5729,7 @@
 					]
 				},
 				{
-					"id": 294,
+					"id": 252,
 					"name": "useCellInteraction",
 					"kind": 32,
 					"kindString": "Variable",
@@ -5747,7 +5747,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 295,
+							"id": 253,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -5756,7 +5756,7 @@
 							},
 							"signatures": [
 								{
-									"id": 296,
+									"id": 254,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -5765,7 +5765,7 @@
 									},
 									"type": {
 										"type": "reference",
-										"id": 276,
+										"id": 234,
 										"name": "CellInteraction"
 									}
 								}
@@ -5786,14 +5786,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						276
+						234
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						294
+						252
 					]
 				}
 			],
@@ -5806,7 +5806,7 @@
 			]
 		},
 		{
-			"id": 297,
+			"id": 255,
 			"name": "\"scheduler/hooks/useConfirmationDialog.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -5816,7 +5816,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useConfirmationDialog.d.ts",
 			"children": [
 				{
-					"id": 298,
+					"id": 256,
 					"name": "ConfirmationDialogState",
 					"kind": 256,
 					"kindString": "Interface",
@@ -5825,7 +5825,7 @@
 					},
 					"children": [
 						{
-							"id": 302,
+							"id": 260,
 							"name": "confirmText",
 							"kind": 1024,
 							"kindString": "Property",
@@ -5846,7 +5846,7 @@
 							}
 						},
 						{
-							"id": 301,
+							"id": 259,
 							"name": "message",
 							"kind": 1024,
 							"kindString": "Property",
@@ -5867,7 +5867,7 @@
 							}
 						},
 						{
-							"id": 304,
+							"id": 262,
 							"name": "onConfirm",
 							"kind": 1024,
 							"kindString": "Property",
@@ -5885,7 +5885,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 305,
+									"id": 263,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -5894,7 +5894,7 @@
 									},
 									"signatures": [
 										{
-											"id": 306,
+											"id": 264,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -5918,7 +5918,7 @@
 							}
 						},
 						{
-							"id": 303,
+							"id": 261,
 							"name": "showCancel",
 							"kind": 1024,
 							"kindString": "Property",
@@ -5939,7 +5939,7 @@
 							}
 						},
 						{
-							"id": 300,
+							"id": 258,
 							"name": "title",
 							"kind": 1024,
 							"kindString": "Property",
@@ -5960,7 +5960,7 @@
 							}
 						},
 						{
-							"id": 299,
+							"id": 257,
 							"name": "visible",
 							"kind": 1024,
 							"kindString": "Property",
@@ -5985,12 +5985,12 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								302,
-								301,
-								304,
-								303,
-								300,
-								299
+								260,
+								259,
+								262,
+								261,
+								258,
+								257
 							]
 						}
 					],
@@ -6003,7 +6003,7 @@
 					]
 				},
 				{
-					"id": 307,
+					"id": 265,
 					"name": "useConfirmationDialog",
 					"kind": 32,
 					"kindString": "Variable",
@@ -6021,7 +6021,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 308,
+							"id": 266,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -6030,7 +6030,7 @@
 							},
 							"signatures": [
 								{
-									"id": 309,
+									"id": 267,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -6040,7 +6040,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 310,
+											"id": 268,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -6049,7 +6049,7 @@
 											},
 											"children": [
 												{
-													"id": 315,
+													"id": 273,
 													"name": "hide",
 													"kind": 32,
 													"kindString": "Variable",
@@ -6066,7 +6066,7 @@
 													"type": {
 														"type": "reflection",
 														"declaration": {
-															"id": 316,
+															"id": 274,
 															"name": "__type",
 															"kind": 65536,
 															"kindString": "Type literal",
@@ -6075,7 +6075,7 @@
 															},
 															"signatures": [
 																{
-																	"id": 317,
+																	"id": 275,
 																	"name": "__call",
 																	"kind": 4096,
 																	"kindString": "Call signature",
@@ -6099,7 +6099,7 @@
 													}
 												},
 												{
-													"id": 318,
+													"id": 276,
 													"name": "setStateUpdater",
 													"kind": 32,
 													"kindString": "Variable",
@@ -6116,7 +6116,7 @@
 													"type": {
 														"type": "reflection",
 														"declaration": {
-															"id": 319,
+															"id": 277,
 															"name": "__type",
 															"kind": 65536,
 															"kindString": "Type literal",
@@ -6125,7 +6125,7 @@
 															},
 															"signatures": [
 																{
-																	"id": 320,
+																	"id": 278,
 																	"name": "__call",
 																	"kind": 4096,
 																	"kindString": "Call signature",
@@ -6134,7 +6134,7 @@
 																	},
 																	"parameters": [
 																		{
-																			"id": 321,
+																			"id": 279,
 																			"name": "callback",
 																			"kind": 32768,
 																			"kindString": "Parameter",
@@ -6144,7 +6144,7 @@
 																			"type": {
 																				"type": "reflection",
 																				"declaration": {
-																					"id": 322,
+																					"id": 280,
 																					"name": "__type",
 																					"kind": 65536,
 																					"kindString": "Type literal",
@@ -6153,7 +6153,7 @@
 																					},
 																					"signatures": [
 																						{
-																							"id": 323,
+																							"id": 281,
 																							"name": "__call",
 																							"kind": 4096,
 																							"kindString": "Call signature",
@@ -6162,7 +6162,7 @@
 																							},
 																							"parameters": [
 																								{
-																									"id": 324,
+																									"id": 282,
 																									"name": "state",
 																									"kind": 32768,
 																									"kindString": "Parameter",
@@ -6171,7 +6171,7 @@
 																									},
 																									"type": {
 																										"type": "reference",
-																										"id": 298,
+																										"id": 256,
 																										"name": "ConfirmationDialogState"
 																									}
 																								}
@@ -6210,7 +6210,7 @@
 													}
 												},
 												{
-													"id": 311,
+													"id": 269,
 													"name": "show",
 													"kind": 32,
 													"kindString": "Variable",
@@ -6227,7 +6227,7 @@
 													"type": {
 														"type": "reflection",
 														"declaration": {
-															"id": 312,
+															"id": 270,
 															"name": "__type",
 															"kind": 65536,
 															"kindString": "Type literal",
@@ -6236,7 +6236,7 @@
 															},
 															"signatures": [
 																{
-																	"id": 313,
+																	"id": 271,
 																	"name": "__call",
 																	"kind": 4096,
 																	"kindString": "Call signature",
@@ -6245,7 +6245,7 @@
 																	},
 																	"parameters": [
 																		{
-																			"id": 314,
+																			"id": 272,
 																			"name": "config",
 																			"kind": 32768,
 																			"kindString": "Parameter",
@@ -6257,7 +6257,7 @@
 																				"typeArguments": [
 																					{
 																						"type": "reference",
-																						"id": 298,
+																						"id": 256,
 																						"name": "ConfirmationDialogState"
 																					},
 																					{
@@ -6291,9 +6291,9 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														315,
-														318,
-														311
+														273,
+														276,
+														269
 													]
 												}
 											],
@@ -6324,14 +6324,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						298
+						256
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						307
+						265
 					]
 				}
 			],
@@ -6344,7 +6344,7 @@
 			]
 		},
 		{
-			"id": 325,
+			"id": 283,
 			"name": "\"scheduler/hooks/useData.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -6354,7 +6354,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useData.d.ts",
 			"children": [
 				{
-					"id": 326,
+					"id": 284,
 					"name": "useData",
 					"kind": 32,
 					"kindString": "Variable",
@@ -6387,7 +6387,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 327,
+							"id": 285,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -6396,7 +6396,7 @@
 							},
 							"signatures": [
 								{
-									"id": 328,
+									"id": 286,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -6405,7 +6405,7 @@
 									},
 									"parameters": [
 										{
-											"id": 329,
+											"id": 287,
 											"name": "props",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -6440,7 +6440,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						326
+						284
 					]
 				}
 			],
@@ -6453,7 +6453,7 @@
 			]
 		},
 		{
-			"id": 330,
+			"id": 288,
 			"name": "\"scheduler/hooks/useDateHeader.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -6463,7 +6463,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useDateHeader.d.ts",
 			"children": [
 				{
-					"id": 331,
+					"id": 289,
 					"name": "DateHeaderCell",
 					"kind": 256,
 					"kindString": "Interface",
@@ -6476,7 +6476,7 @@
 					},
 					"children": [
 						{
-							"id": 337,
+							"id": 295,
 							"name": "className",
 							"kind": 1024,
 							"kindString": "Property",
@@ -6499,7 +6499,7 @@
 							}
 						},
 						{
-							"id": 332,
+							"id": 290,
 							"name": "date",
 							"kind": 1024,
 							"kindString": "Property",
@@ -6523,7 +6523,7 @@
 							}
 						},
 						{
-							"id": 334,
+							"id": 292,
 							"name": "dateNumber",
 							"kind": 1024,
 							"kindString": "Property",
@@ -6547,7 +6547,7 @@
 							}
 						},
 						{
-							"id": 333,
+							"id": 291,
 							"name": "dayName",
 							"kind": 1024,
 							"kindString": "Property",
@@ -6570,7 +6570,7 @@
 							}
 						},
 						{
-							"id": 335,
+							"id": 293,
 							"name": "isToday",
 							"kind": 1024,
 							"kindString": "Property",
@@ -6594,7 +6594,7 @@
 							}
 						},
 						{
-							"id": 336,
+							"id": 294,
 							"name": "isWeekend",
 							"kind": 1024,
 							"kindString": "Property",
@@ -6618,7 +6618,7 @@
 							}
 						},
 						{
-							"id": 338,
+							"id": 296,
 							"name": "key",
 							"kind": 1024,
 							"kindString": "Property",
@@ -6646,13 +6646,13 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								337,
-								332,
-								334,
-								333,
-								335,
-								336,
-								338
+								295,
+								290,
+								292,
+								291,
+								293,
+								294,
+								296
 							]
 						}
 					],
@@ -6665,7 +6665,7 @@
 					]
 				},
 				{
-					"id": 339,
+					"id": 297,
 					"name": "useDateHeader",
 					"kind": 64,
 					"kindString": "Function",
@@ -6675,7 +6675,7 @@
 					},
 					"signatures": [
 						{
-							"id": 340,
+							"id": 298,
 							"name": "useDateHeader",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -6702,7 +6702,7 @@
 					]
 				},
 				{
-					"id": 341,
+					"id": 299,
 					"name": "useNavigate",
 					"kind": 64,
 					"kindString": "Function",
@@ -6712,7 +6712,7 @@
 					},
 					"signatures": [
 						{
-							"id": 342,
+							"id": 300,
 							"name": "useNavigate",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -6744,15 +6744,15 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						331
+						289
 					]
 				},
 				{
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						339,
-						341
+						297,
+						299
 					]
 				}
 			],
@@ -6765,7 +6765,7 @@
 			]
 		},
 		{
-			"id": 343,
+			"id": 301,
 			"name": "\"scheduler/hooks/useDragAndDrop.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -6775,7 +6775,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useDragAndDrop.d.ts",
 			"children": [
 				{
-					"id": 344,
+					"id": 302,
 					"name": "useDragAndDrop",
 					"kind": 64,
 					"kindString": "Function",
@@ -6785,7 +6785,7 @@
 					},
 					"signatures": [
 						{
-							"id": 345,
+							"id": 303,
 							"name": "useDragAndDrop",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -6799,7 +6799,7 @@
 							},
 							"parameters": [
 								{
-									"id": 346,
+									"id": 304,
 									"name": "__namedParameters",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -6810,7 +6810,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 347,
+											"id": 305,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -6819,7 +6819,7 @@
 											},
 											"children": [
 												{
-													"id": 353,
+													"id": 311,
 													"name": "containerProps",
 													"kind": 32,
 													"kindString": "Variable",
@@ -6845,7 +6845,7 @@
 													}
 												},
 												{
-													"id": 352,
+													"id": 310,
 													"name": "data",
 													"kind": 32,
 													"kindString": "Variable",
@@ -6866,7 +6866,7 @@
 													}
 												},
 												{
-													"id": 348,
+													"id": 306,
 													"name": "ref",
 													"kind": 32,
 													"kindString": "Variable",
@@ -6886,7 +6886,7 @@
 															{
 																"type": "reflection",
 																"declaration": {
-																	"id": 349,
+																	"id": 307,
 																	"name": "__type",
 																	"kind": 65536,
 																	"kindString": "Type literal",
@@ -6895,7 +6895,7 @@
 																	},
 																	"signatures": [
 																		{
-																			"id": 350,
+																			"id": 308,
 																			"name": "__call",
 																			"kind": 4096,
 																			"kindString": "Call signature",
@@ -6904,7 +6904,7 @@
 																			},
 																			"parameters": [
 																				{
-																					"id": 351,
+																					"id": 309,
 																					"name": "instance",
 																					"kind": 32768,
 																					"kindString": "Parameter",
@@ -6953,9 +6953,9 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														353,
-														352,
-														348
+														311,
+														310,
+														306
 													]
 												}
 											],
@@ -6990,7 +6990,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						344
+						302
 					]
 				}
 			],
@@ -7003,7 +7003,7 @@
 			]
 		},
 		{
-			"id": 354,
+			"id": 312,
 			"name": "\"scheduler/hooks/useEditorPopup.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -7013,7 +7013,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useEditorPopup.d.ts",
 			"children": [
 				{
-					"id": 355,
+					"id": 313,
 					"name": "UseEditorPopupResult",
 					"kind": 256,
 					"kindString": "Interface",
@@ -7024,7 +7024,7 @@
 					"comment": {},
 					"children": [
 						{
-							"id": 371,
+							"id": 329,
 							"name": "description",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7044,7 +7044,7 @@
 							}
 						},
 						{
-							"id": 379,
+							"id": 337,
 							"name": "endDateOnly",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7065,7 +7065,7 @@
 							}
 						},
 						{
-							"id": 373,
+							"id": 331,
 							"name": "endTime",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7086,7 +7086,7 @@
 							}
 						},
 						{
-							"id": 380,
+							"id": 338,
 							"name": "endTimeOnly",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7107,7 +7107,7 @@
 							}
 						},
 						{
-							"id": 391,
+							"id": 349,
 							"name": "handleDescriptionChange",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7124,7 +7124,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 392,
+									"id": 350,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -7133,7 +7133,7 @@
 									},
 									"signatures": [
 										{
-											"id": 393,
+											"id": 351,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -7142,7 +7142,7 @@
 											},
 											"parameters": [
 												{
-													"id": 394,
+													"id": 352,
 													"name": "args",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -7172,7 +7172,7 @@
 							}
 						},
 						{
-							"id": 403,
+							"id": 361,
 							"name": "handleEndDateChange",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7189,7 +7189,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 404,
+									"id": 362,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -7198,7 +7198,7 @@
 									},
 									"signatures": [
 										{
-											"id": 405,
+											"id": 363,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -7207,7 +7207,7 @@
 											},
 											"parameters": [
 												{
-													"id": 406,
+													"id": 364,
 													"name": "args",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -7237,7 +7237,7 @@
 							}
 						},
 						{
-							"id": 407,
+							"id": 365,
 							"name": "handleEndTimeChange",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7254,7 +7254,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 408,
+									"id": 366,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -7263,7 +7263,7 @@
 									},
 									"signatures": [
 										{
-											"id": 409,
+											"id": 367,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -7272,7 +7272,7 @@
 											},
 											"parameters": [
 												{
-													"id": 410,
+													"id": 368,
 													"name": "args",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -7302,7 +7302,7 @@
 							}
 						},
 						{
-							"id": 411,
+							"id": 369,
 							"name": "handleIsAllDayChange",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7319,7 +7319,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 412,
+									"id": 370,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -7328,7 +7328,7 @@
 									},
 									"signatures": [
 										{
-											"id": 413,
+											"id": 371,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -7337,7 +7337,7 @@
 											},
 											"parameters": [
 												{
-													"id": 414,
+													"id": 372,
 													"name": "args",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -7367,7 +7367,7 @@
 							}
 						},
 						{
-							"id": 387,
+							"id": 345,
 							"name": "handleLocationChange",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7384,7 +7384,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 388,
+									"id": 346,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -7393,7 +7393,7 @@
 									},
 									"signatures": [
 										{
-											"id": 389,
+											"id": 347,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -7402,7 +7402,7 @@
 											},
 											"parameters": [
 												{
-													"id": 390,
+													"id": 348,
 													"name": "args",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -7432,7 +7432,7 @@
 							}
 						},
 						{
-							"id": 395,
+							"id": 353,
 							"name": "handleStartDateChange",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7449,7 +7449,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 396,
+									"id": 354,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -7458,7 +7458,7 @@
 									},
 									"signatures": [
 										{
-											"id": 397,
+											"id": 355,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -7467,7 +7467,7 @@
 											},
 											"parameters": [
 												{
-													"id": 398,
+													"id": 356,
 													"name": "args",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -7497,7 +7497,7 @@
 							}
 						},
 						{
-							"id": 399,
+							"id": 357,
 							"name": "handleStartTimeChange",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7514,7 +7514,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 400,
+									"id": 358,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -7523,7 +7523,7 @@
 									},
 									"signatures": [
 										{
-											"id": 401,
+											"id": 359,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -7532,7 +7532,7 @@
 											},
 											"parameters": [
 												{
-													"id": 402,
+													"id": 360,
 													"name": "args",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -7562,7 +7562,7 @@
 							}
 						},
 						{
-							"id": 383,
+							"id": 341,
 							"name": "handleSubjectChange",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7579,7 +7579,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 384,
+									"id": 342,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -7588,7 +7588,7 @@
 									},
 									"signatures": [
 										{
-											"id": 385,
+											"id": 343,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -7597,7 +7597,7 @@
 											},
 											"parameters": [
 												{
-													"id": 386,
+													"id": 344,
 													"name": "args",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -7627,7 +7627,7 @@
 							}
 						},
 						{
-							"id": 374,
+							"id": 332,
 							"name": "isAllDay",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7647,7 +7647,7 @@
 							}
 						},
 						{
-							"id": 370,
+							"id": 328,
 							"name": "location",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7667,7 +7667,7 @@
 							}
 						},
 						{
-							"id": 375,
+							"id": 333,
 							"name": "mode",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7696,7 +7696,7 @@
 							}
 						},
 						{
-							"id": 358,
+							"id": 316,
 							"name": "onCellDoubleClickHandler",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7713,7 +7713,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 359,
+									"id": 317,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -7722,7 +7722,7 @@
 									},
 									"signatures": [
 										{
-											"id": 360,
+											"id": 318,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -7731,7 +7731,7 @@
 											},
 											"parameters": [
 												{
-													"id": 361,
+													"id": 319,
 													"name": "args",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -7762,7 +7762,7 @@
 							}
 						},
 						{
-							"id": 366,
+							"id": 324,
 							"name": "onClose",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7779,7 +7779,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 367,
+									"id": 325,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -7788,7 +7788,7 @@
 									},
 									"signatures": [
 										{
-											"id": 368,
+											"id": 326,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -7812,7 +7812,7 @@
 							}
 						},
 						{
-							"id": 415,
+							"id": 373,
 							"name": "onEditEvent",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7829,7 +7829,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 416,
+									"id": 374,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -7838,7 +7838,7 @@
 									},
 									"signatures": [
 										{
-											"id": 417,
+											"id": 375,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -7847,7 +7847,7 @@
 											},
 											"parameters": [
 												{
-													"id": 418,
+													"id": 376,
 													"name": "eventData",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -7878,7 +7878,7 @@
 							}
 						},
 						{
-							"id": 362,
+							"id": 320,
 							"name": "onEventDoubleClickHandler",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7895,7 +7895,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 363,
+									"id": 321,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -7904,7 +7904,7 @@
 									},
 									"signatures": [
 										{
-											"id": 364,
+											"id": 322,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -7913,7 +7913,7 @@
 											},
 											"parameters": [
 												{
-													"id": 365,
+													"id": 323,
 													"name": "args",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -7944,7 +7944,7 @@
 							}
 						},
 						{
-							"id": 419,
+							"id": 377,
 							"name": "onMoreDetails",
 							"kind": 1024,
 							"kindString": "Property",
@@ -7961,7 +7961,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 420,
+									"id": 378,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -7970,7 +7970,7 @@
 									},
 									"signatures": [
 										{
-											"id": 421,
+											"id": 379,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -7979,7 +7979,7 @@
 											},
 											"parameters": [
 												{
-													"id": 422,
+													"id": 380,
 													"name": "cellData",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -8010,7 +8010,7 @@
 							}
 						},
 						{
-							"id": 356,
+							"id": 314,
 							"name": "open",
 							"kind": 1024,
 							"kindString": "Property",
@@ -8030,7 +8030,7 @@
 							}
 						},
 						{
-							"id": 376,
+							"id": 334,
 							"name": "originalData",
 							"kind": 1024,
 							"kindString": "Property",
@@ -8052,7 +8052,7 @@
 							}
 						},
 						{
-							"id": 357,
+							"id": 315,
 							"name": "setOpen",
 							"kind": 1024,
 							"kindString": "Property",
@@ -8084,7 +8084,7 @@
 							}
 						},
 						{
-							"id": 382,
+							"id": 340,
 							"name": "setSlotDuration",
 							"kind": 1024,
 							"kindString": "Property",
@@ -8116,7 +8116,7 @@
 							}
 						},
 						{
-							"id": 381,
+							"id": 339,
 							"name": "slotDuration",
 							"kind": 1024,
 							"kindString": "Property",
@@ -8136,7 +8136,7 @@
 							}
 						},
 						{
-							"id": 377,
+							"id": 335,
 							"name": "startDateOnly",
 							"kind": 1024,
 							"kindString": "Property",
@@ -8157,7 +8157,7 @@
 							}
 						},
 						{
-							"id": 372,
+							"id": 330,
 							"name": "startTime",
 							"kind": 1024,
 							"kindString": "Property",
@@ -8178,7 +8178,7 @@
 							}
 						},
 						{
-							"id": 378,
+							"id": 336,
 							"name": "startTimeOnly",
 							"kind": 1024,
 							"kindString": "Property",
@@ -8199,7 +8199,7 @@
 							}
 						},
 						{
-							"id": 369,
+							"id": 327,
 							"name": "subject",
 							"kind": 1024,
 							"kindString": "Property",
@@ -8219,7 +8219,7 @@
 							}
 						},
 						{
-							"id": 423,
+							"id": 381,
 							"name": "validateRequiredFields",
 							"kind": 1024,
 							"kindString": "Property",
@@ -8236,7 +8236,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 424,
+									"id": 382,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -8245,7 +8245,7 @@
 									},
 									"signatures": [
 										{
-											"id": 425,
+											"id": 383,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -8254,7 +8254,7 @@
 											},
 											"parameters": [
 												{
-													"id": 426,
+													"id": 384,
 													"name": "getString",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -8264,7 +8264,7 @@
 													"type": {
 														"type": "reflection",
 														"declaration": {
-															"id": 427,
+															"id": 385,
 															"name": "__type",
 															"kind": 65536,
 															"kindString": "Type literal",
@@ -8273,7 +8273,7 @@
 															},
 															"signatures": [
 																{
-																	"id": 428,
+																	"id": 386,
 																	"name": "__call",
 																	"kind": 4096,
 																	"kindString": "Call signature",
@@ -8282,7 +8282,7 @@
 																	},
 																	"parameters": [
 																		{
-																			"id": 429,
+																			"id": 387,
 																			"name": "key",
 																			"kind": 32768,
 																			"kindString": "Parameter",
@@ -8343,36 +8343,36 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								371,
-								379,
-								373,
-								380,
-								391,
-								403,
-								407,
-								411,
-								387,
-								395,
-								399,
-								383,
-								374,
-								370,
-								375,
-								358,
-								366,
-								415,
-								362,
-								419,
-								356,
-								376,
-								357,
-								382,
-								381,
-								377,
-								372,
-								378,
+								329,
+								337,
+								331,
+								338,
+								349,
+								361,
+								365,
 								369,
-								423
+								345,
+								353,
+								357,
+								341,
+								332,
+								328,
+								333,
+								316,
+								324,
+								373,
+								320,
+								377,
+								314,
+								334,
+								315,
+								340,
+								339,
+								335,
+								330,
+								336,
+								327,
+								381
 							]
 						}
 					],
@@ -8385,7 +8385,7 @@
 					]
 				},
 				{
-					"id": 430,
+					"id": 388,
 					"name": "useEditorPopup",
 					"kind": 32,
 					"kindString": "Variable",
@@ -8428,7 +8428,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 431,
+							"id": 389,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -8437,7 +8437,7 @@
 							},
 							"signatures": [
 								{
-									"id": 432,
+									"id": 390,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -8446,7 +8446,7 @@
 									},
 									"parameters": [
 										{
-											"id": 433,
+											"id": 391,
 											"name": "onCellDoubleClick",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8457,7 +8457,7 @@
 											"type": {
 												"type": "reflection",
 												"declaration": {
-													"id": 434,
+													"id": 392,
 													"name": "__type",
 													"kind": 65536,
 													"kindString": "Type literal",
@@ -8466,7 +8466,7 @@
 													},
 													"signatures": [
 														{
-															"id": 435,
+															"id": 393,
 															"name": "__call",
 															"kind": 4096,
 															"kindString": "Call signature",
@@ -8475,7 +8475,7 @@
 															},
 															"parameters": [
 																{
-																	"id": 436,
+																	"id": 394,
 																	"name": "args",
 																	"kind": 32768,
 																	"kindString": "Parameter",
@@ -8506,7 +8506,7 @@
 											}
 										},
 										{
-											"id": 437,
+											"id": 395,
 											"name": "onEventDoubleClick",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8517,7 +8517,7 @@
 											"type": {
 												"type": "reflection",
 												"declaration": {
-													"id": 438,
+													"id": 396,
 													"name": "__type",
 													"kind": 65536,
 													"kindString": "Type literal",
@@ -8526,7 +8526,7 @@
 													},
 													"signatures": [
 														{
-															"id": 439,
+															"id": 397,
 															"name": "__call",
 															"kind": 4096,
 															"kindString": "Call signature",
@@ -8535,7 +8535,7 @@
 															},
 															"parameters": [
 																{
-																	"id": 440,
+																	"id": 398,
 																	"name": "args",
 																	"kind": 32768,
 																	"kindString": "Parameter",
@@ -8566,7 +8566,7 @@
 											}
 										},
 										{
-											"id": 441,
+											"id": 399,
 											"name": "closeAllPopups",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8577,7 +8577,7 @@
 											"type": {
 												"type": "reflection",
 												"declaration": {
-													"id": 442,
+													"id": 400,
 													"name": "__type",
 													"kind": 65536,
 													"kindString": "Type literal",
@@ -8586,7 +8586,7 @@
 													},
 													"signatures": [
 														{
-															"id": 443,
+															"id": 401,
 															"name": "__call",
 															"kind": 4096,
 															"kindString": "Call signature",
@@ -8612,7 +8612,7 @@
 									],
 									"type": {
 										"type": "reference",
-										"id": 355,
+										"id": 313,
 										"name": "UseEditorPopupResult"
 									}
 								}
@@ -8633,14 +8633,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						355
+						313
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						430
+						388
 					]
 				}
 			],
@@ -8653,7 +8653,7 @@
 			]
 		},
 		{
-			"id": 444,
+			"id": 402,
 			"name": "\"scheduler/hooks/useEventPositioning.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -8663,7 +8663,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useEventPositioning.d.ts",
 			"children": [
 				{
-					"id": 445,
+					"id": 403,
 					"name": "useEventPositioning",
 					"kind": 32,
 					"kindString": "Variable",
@@ -8696,7 +8696,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 446,
+							"id": 404,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -8705,7 +8705,7 @@
 							},
 							"signatures": [
 								{
-									"id": 447,
+									"id": 405,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -8714,7 +8714,7 @@
 									},
 									"parameters": [
 										{
-											"id": 448,
+											"id": 406,
 											"name": "props",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8749,7 +8749,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						445
+						403
 					]
 				}
 			],
@@ -8762,7 +8762,7 @@
 			]
 		},
 		{
-			"id": 449,
+			"id": 407,
 			"name": "\"scheduler/hooks/useKeyboard.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -8772,7 +8772,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useKeyboard.d.ts",
 			"children": [
 				{
-					"id": 450,
+					"id": 408,
 					"name": "useKeyboard",
 					"kind": 32,
 					"kindString": "Variable",
@@ -8810,7 +8810,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 451,
+							"id": 409,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -8819,7 +8819,7 @@
 							},
 							"signatures": [
 								{
-									"id": 452,
+									"id": 410,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -8828,7 +8828,7 @@
 									},
 									"parameters": [
 										{
-											"id": 453,
+											"id": 411,
 											"name": "context",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8842,7 +8842,7 @@
 											}
 										},
 										{
-											"id": 454,
+											"id": 412,
 											"name": "eventsData",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8862,7 +8862,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 455,
+											"id": 413,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -8871,7 +8871,7 @@
 											},
 											"signatures": [
 												{
-													"id": 456,
+													"id": 414,
 													"name": "__call",
 													"kind": 4096,
 													"kindString": "Call signature",
@@ -8880,7 +8880,7 @@
 													},
 													"parameters": [
 														{
-															"id": 457,
+															"id": 415,
 															"name": "event",
 															"kind": 32768,
 															"kindString": "Parameter",
@@ -8932,7 +8932,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						450
+						408
 					]
 				}
 			],
@@ -8945,7 +8945,7 @@
 			]
 		},
 		{
-			"id": 458,
+			"id": 416,
 			"name": "\"scheduler/hooks/useMonthCells.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -8955,7 +8955,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useMonthCells.d.ts",
 			"children": [
 				{
-					"id": 459,
+					"id": 417,
 					"name": "MonthCell",
 					"kind": 256,
 					"kindString": "Interface",
@@ -8968,7 +8968,7 @@
 					},
 					"children": [
 						{
-							"id": 461,
+							"id": 419,
 							"name": "className",
 							"kind": 1024,
 							"kindString": "Property",
@@ -8991,7 +8991,7 @@
 							}
 						},
 						{
-							"id": 460,
+							"id": 418,
 							"name": "date",
 							"kind": 1024,
 							"kindString": "Property",
@@ -9014,7 +9014,7 @@
 							}
 						},
 						{
-							"id": 462,
+							"id": 420,
 							"name": "dateTimestamp",
 							"kind": 1024,
 							"kindString": "Property",
@@ -9037,7 +9037,7 @@
 							}
 						},
 						{
-							"id": 463,
+							"id": 421,
 							"name": "displayText",
 							"kind": 1024,
 							"kindString": "Property",
@@ -9060,7 +9060,7 @@
 							}
 						},
 						{
-							"id": 464,
+							"id": 422,
 							"name": "key",
 							"kind": 1024,
 							"kindString": "Property",
@@ -9088,11 +9088,11 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								461,
-								460,
-								462,
-								463,
-								464
+								419,
+								418,
+								420,
+								421,
+								422
 							]
 						}
 					],
@@ -9105,7 +9105,7 @@
 					]
 				},
 				{
-					"id": 465,
+					"id": 423,
 					"name": "MonthCellsResult",
 					"kind": 256,
 					"kindString": "Interface",
@@ -9118,7 +9118,7 @@
 					},
 					"children": [
 						{
-							"id": 467,
+							"id": 425,
 							"name": "handleMoreClick",
 							"kind": 1024,
 							"kindString": "Property",
@@ -9138,7 +9138,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 468,
+									"id": 426,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -9147,7 +9147,7 @@
 									},
 									"signatures": [
 										{
-											"id": 469,
+											"id": 427,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -9156,7 +9156,7 @@
 											},
 											"parameters": [
 												{
-													"id": 470,
+													"id": 428,
 													"name": "e",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -9175,7 +9175,7 @@
 													}
 												},
 												{
-													"id": 471,
+													"id": 429,
 													"name": "date",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -9205,7 +9205,7 @@
 							}
 						},
 						{
-							"id": 466,
+							"id": 424,
 							"name": "workCells",
 							"kind": 1024,
 							"kindString": "Property",
@@ -9226,7 +9226,7 @@
 								"type": "array",
 								"elementType": {
 									"type": "reference",
-									"id": 459,
+									"id": 417,
 									"name": "MonthCell"
 								}
 							}
@@ -9237,8 +9237,8 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								467,
-								466
+								425,
+								424
 							]
 						}
 					],
@@ -9251,7 +9251,7 @@
 					]
 				},
 				{
-					"id": 472,
+					"id": 430,
 					"name": "useMonthCells",
 					"kind": 64,
 					"kindString": "Function",
@@ -9261,7 +9261,7 @@
 					},
 					"signatures": [
 						{
-							"id": 473,
+							"id": 431,
 							"name": "useMonthCells",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -9275,7 +9275,7 @@
 							},
 							"parameters": [
 								{
-									"id": 474,
+									"id": 432,
 									"name": "props",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -9294,7 +9294,7 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 465,
+								"id": 423,
 								"name": "MonthCellsResult"
 							}
 						}
@@ -9313,15 +9313,15 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						459,
-						465
+						417,
+						423
 					]
 				},
 				{
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						472
+						430
 					]
 				}
 			],
@@ -9334,7 +9334,7 @@
 			]
 		},
 		{
-			"id": 475,
+			"id": 433,
 			"name": "\"scheduler/hooks/useMonthEvents.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -9344,7 +9344,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useMonthEvents.d.ts",
 			"children": [
 				{
-					"id": 476,
+					"id": 434,
 					"name": "UseMonthEventsResult",
 					"kind": 256,
 					"kindString": "Interface",
@@ -9357,7 +9357,7 @@
 					},
 					"children": [
 						{
-							"id": 505,
+							"id": 463,
 							"name": "calculatedRowHeight",
 							"kind": 1024,
 							"kindString": "Property",
@@ -9380,7 +9380,7 @@
 							}
 						},
 						{
-							"id": 489,
+							"id": 447,
 							"name": "getAllEventsForDate",
 							"kind": 1024,
 							"kindString": "Property",
@@ -9400,7 +9400,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 490,
+									"id": 448,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -9409,7 +9409,7 @@
 									},
 									"signatures": [
 										{
-											"id": 491,
+											"id": 449,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -9418,7 +9418,7 @@
 											},
 											"parameters": [
 												{
-													"id": 492,
+													"id": 450,
 													"name": "dateKey",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -9452,7 +9452,7 @@
 							}
 						},
 						{
-							"id": 481,
+							"id": 439,
 							"name": "getAlldayBlockEvent",
 							"kind": 1024,
 							"kindString": "Property",
@@ -9469,7 +9469,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 482,
+									"id": 440,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -9478,7 +9478,7 @@
 									},
 									"signatures": [
 										{
-											"id": 483,
+											"id": 441,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -9487,7 +9487,7 @@
 											},
 											"parameters": [
 												{
-													"id": 484,
+													"id": 442,
 													"name": "dateKey",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -9518,7 +9518,7 @@
 							}
 						},
 						{
-							"id": 485,
+							"id": 443,
 							"name": "getHiddenEventCount",
 							"kind": 1024,
 							"kindString": "Property",
@@ -9538,7 +9538,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 486,
+									"id": 444,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -9547,7 +9547,7 @@
 									},
 									"signatures": [
 										{
-											"id": 487,
+											"id": 445,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -9556,7 +9556,7 @@
 											},
 											"parameters": [
 												{
-													"id": 488,
+													"id": 446,
 													"name": "dateKey",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -9586,7 +9586,7 @@
 							}
 						},
 						{
-							"id": 477,
+							"id": 435,
 							"name": "getVisibleEvents",
 							"kind": 1024,
 							"kindString": "Property",
@@ -9606,7 +9606,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 478,
+									"id": 436,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -9615,7 +9615,7 @@
 									},
 									"signatures": [
 										{
-											"id": 479,
+											"id": 437,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -9624,7 +9624,7 @@
 											},
 											"parameters": [
 												{
-													"id": 480,
+													"id": 438,
 													"name": "dateKey",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -9658,7 +9658,7 @@
 							}
 						},
 						{
-							"id": 501,
+							"id": 459,
 							"name": "hasAllDayBlock",
 							"kind": 1024,
 							"kindString": "Property",
@@ -9678,7 +9678,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 502,
+									"id": 460,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -9687,7 +9687,7 @@
 									},
 									"signatures": [
 										{
-											"id": 503,
+											"id": 461,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -9696,7 +9696,7 @@
 											},
 											"parameters": [
 												{
-													"id": 504,
+													"id": 462,
 													"name": "dateKey",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -9726,7 +9726,7 @@
 							}
 						},
 						{
-							"id": 497,
+							"id": 455,
 							"name": "hasBlockIndicator",
 							"kind": 1024,
 							"kindString": "Property",
@@ -9746,7 +9746,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 498,
+									"id": 456,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -9755,7 +9755,7 @@
 									},
 									"signatures": [
 										{
-											"id": 499,
+											"id": 457,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -9764,7 +9764,7 @@
 											},
 											"parameters": [
 												{
-													"id": 500,
+													"id": 458,
 													"name": "dateKey",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -9794,7 +9794,7 @@
 							}
 						},
 						{
-							"id": 493,
+							"id": 451,
 							"name": "hasMoreIndicator",
 							"kind": 1024,
 							"kindString": "Property",
@@ -9814,7 +9814,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 494,
+									"id": 452,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -9823,7 +9823,7 @@
 									},
 									"signatures": [
 										{
-											"id": 495,
+											"id": 453,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -9832,7 +9832,7 @@
 											},
 											"parameters": [
 												{
-													"id": 496,
+													"id": 454,
 													"name": "dateKey",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -9862,7 +9862,7 @@
 							}
 						},
 						{
-							"id": 506,
+							"id": 464,
 							"name": "sortEventsByTime",
 							"kind": 1024,
 							"kindString": "Property",
@@ -9882,7 +9882,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 507,
+									"id": 465,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -9891,7 +9891,7 @@
 									},
 									"signatures": [
 										{
-											"id": 508,
+											"id": 466,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -9900,7 +9900,7 @@
 											},
 											"parameters": [
 												{
-													"id": 509,
+													"id": 467,
 													"name": "events",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -9943,15 +9943,15 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								505,
-								489,
-								481,
-								485,
-								477,
-								501,
-								497,
-								493,
-								506
+								463,
+								447,
+								439,
+								443,
+								435,
+								459,
+								455,
+								451,
+								464
 							]
 						}
 					],
@@ -9964,7 +9964,7 @@
 					]
 				},
 				{
-					"id": 510,
+					"id": 468,
 					"name": "useMonthEvents",
 					"kind": 32,
 					"kindString": "Variable",
@@ -10002,7 +10002,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 511,
+							"id": 469,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -10011,7 +10011,7 @@
 							},
 							"signatures": [
 								{
-									"id": 512,
+									"id": 470,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -10020,7 +10020,7 @@
 									},
 									"parameters": [
 										{
-											"id": 513,
+											"id": 471,
 											"name": "renderDates",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -10036,7 +10036,7 @@
 											}
 										},
 										{
-											"id": 514,
+											"id": 472,
 											"name": "maxEventsPerRow",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -10051,7 +10051,7 @@
 									],
 									"type": {
 										"type": "reference",
-										"id": 476,
+										"id": 434,
 										"name": "UseMonthEventsResult"
 									}
 								}
@@ -10072,14 +10072,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						476
+						434
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						510
+						468
 					]
 				}
 			],
@@ -10092,7 +10092,7 @@
 			]
 		},
 		{
-			"id": 515,
+			"id": 473,
 			"name": "\"scheduler/hooks/useMonthRows.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -10102,7 +10102,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useMonthRows.d.ts",
 			"children": [
 				{
-					"id": 516,
+					"id": 474,
 					"name": "MonthRowsResult",
 					"kind": 256,
 					"kindString": "Interface",
@@ -10115,7 +10115,7 @@
 					},
 					"children": [
 						{
-							"id": 520,
+							"id": 478,
 							"name": "additionalClass",
 							"kind": 1024,
 							"kindString": "Property",
@@ -10138,7 +10138,7 @@
 							}
 						},
 						{
-							"id": 519,
+							"id": 477,
 							"name": "contentTableStyle",
 							"kind": 1024,
 							"kindString": "Property",
@@ -10162,7 +10162,7 @@
 							}
 						},
 						{
-							"id": 521,
+							"id": 479,
 							"name": "hideOtherMonths",
 							"kind": 1024,
 							"kindString": "Property",
@@ -10185,7 +10185,7 @@
 							}
 						},
 						{
-							"id": 517,
+							"id": 475,
 							"name": "weekNumbers",
 							"kind": 1024,
 							"kindString": "Property",
@@ -10211,7 +10211,7 @@
 							}
 						},
 						{
-							"id": 518,
+							"id": 476,
 							"name": "weeksToRender",
 							"kind": 1024,
 							"kindString": "Property",
@@ -10245,11 +10245,11 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								520,
-								519,
-								521,
-								517,
-								518
+								478,
+								477,
+								479,
+								475,
+								476
 							]
 						}
 					],
@@ -10262,7 +10262,7 @@
 					]
 				},
 				{
-					"id": 522,
+					"id": 480,
 					"name": "useMonthRows",
 					"kind": 64,
 					"kindString": "Function",
@@ -10272,7 +10272,7 @@
 					},
 					"signatures": [
 						{
-							"id": 523,
+							"id": 481,
 							"name": "useMonthRows",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -10286,7 +10286,7 @@
 							},
 							"type": {
 								"type": "reference",
-								"id": 516,
+								"id": 474,
 								"name": "MonthRowsResult"
 							}
 						}
@@ -10305,14 +10305,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						516
+						474
 					]
 				},
 				{
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						522
+						480
 					]
 				}
 			],
@@ -10325,7 +10325,7 @@
 			]
 		},
 		{
-			"id": 524,
+			"id": 482,
 			"name": "\"scheduler/hooks/useMoreIndicator.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -10335,7 +10335,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useMoreIndicator.d.ts",
 			"children": [
 				{
-					"id": 525,
+					"id": 483,
 					"name": "useMoreIndicator",
 					"kind": 64,
 					"kindString": "Function",
@@ -10345,7 +10345,7 @@
 					},
 					"signatures": [
 						{
-							"id": 526,
+							"id": 484,
 							"name": "useMoreIndicator",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -10359,7 +10359,7 @@
 							},
 							"parameters": [
 								{
-									"id": 527,
+									"id": 485,
 									"name": "getAllEventsForDate",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -10372,7 +10372,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 528,
+											"id": 486,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -10381,7 +10381,7 @@
 											},
 											"signatures": [
 												{
-													"id": 529,
+													"id": 487,
 													"name": "__call",
 													"kind": 4096,
 													"kindString": "Call signature",
@@ -10390,7 +10390,7 @@
 													},
 													"parameters": [
 														{
-															"id": 530,
+															"id": 488,
 															"name": "dateKey",
 															"kind": 32768,
 															"kindString": "Parameter",
@@ -10427,7 +10427,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 531,
+									"id": 489,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -10436,7 +10436,7 @@
 									},
 									"children": [
 										{
-											"id": 532,
+											"id": 490,
 											"name": "handleMoreClick",
 											"kind": 32,
 											"kindString": "Variable",
@@ -10453,7 +10453,7 @@
 											"type": {
 												"type": "reflection",
 												"declaration": {
-													"id": 533,
+													"id": 491,
 													"name": "__type",
 													"kind": 65536,
 													"kindString": "Type literal",
@@ -10462,7 +10462,7 @@
 													},
 													"signatures": [
 														{
-															"id": 534,
+															"id": 492,
 															"name": "__call",
 															"kind": 4096,
 															"kindString": "Call signature",
@@ -10471,7 +10471,7 @@
 															},
 															"parameters": [
 																{
-																	"id": 535,
+																	"id": 493,
 																	"name": "e",
 																	"kind": 32768,
 																	"kindString": "Parameter",
@@ -10490,7 +10490,7 @@
 																	}
 																},
 																{
-																	"id": 536,
+																	"id": 494,
 																	"name": "date",
 																	"kind": 32768,
 																	"kindString": "Parameter",
@@ -10525,7 +10525,7 @@
 											"title": "Variables",
 											"kind": 32,
 											"children": [
-												532
+												490
 											]
 										}
 									],
@@ -10554,7 +10554,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						525
+						483
 					]
 				}
 			],
@@ -10567,7 +10567,7 @@
 			]
 		},
 		{
-			"id": 537,
+			"id": 495,
 			"name": "\"scheduler/hooks/useMorePopup.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -10577,7 +10577,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useMorePopup.d.ts",
 			"children": [
 				{
-					"id": 538,
+					"id": 496,
 					"name": "useMorePopup",
 					"kind": 32,
 					"kindString": "Variable",
@@ -10605,7 +10605,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 539,
+							"id": 497,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -10614,7 +10614,7 @@
 							},
 							"signatures": [
 								{
-									"id": 540,
+									"id": 498,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -10643,7 +10643,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						538
+						496
 					]
 				}
 			],
@@ -10656,7 +10656,7 @@
 			]
 		},
 		{
-			"id": 541,
+			"id": 499,
 			"name": "\"scheduler/hooks/useQuickInfoPopup.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -10666,7 +10666,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useQuickInfoPopup.d.ts",
 			"children": [
 				{
-					"id": 573,
+					"id": 531,
 					"name": "UsePopupResult",
 					"kind": 256,
 					"kindString": "Interface",
@@ -10679,7 +10679,7 @@
 					},
 					"children": [
 						{
-							"id": 588,
+							"id": 546,
 							"name": "cellEditRef",
 							"kind": 1024,
 							"kindString": "Property",
@@ -10706,7 +10706,7 @@
 							}
 						},
 						{
-							"id": 603,
+							"id": 561,
 							"name": "closeAllPopups",
 							"kind": 1024,
 							"kindString": "Property",
@@ -10723,7 +10723,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 604,
+									"id": 562,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -10732,7 +10732,7 @@
 									},
 									"signatures": [
 										{
-											"id": 605,
+											"id": 563,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -10756,7 +10756,7 @@
 							}
 						},
 						{
-							"id": 578,
+							"id": 536,
 							"name": "containerRef",
 							"kind": 1024,
 							"kindString": "Property",
@@ -10782,7 +10782,7 @@
 							}
 						},
 						{
-							"id": 589,
+							"id": 547,
 							"name": "eventEditRef",
 							"kind": 1024,
 							"kindString": "Property",
@@ -10809,7 +10809,7 @@
 							}
 						},
 						{
-							"id": 590,
+							"id": 548,
 							"name": "handleCellClick",
 							"kind": 1024,
 							"kindString": "Property",
@@ -10826,7 +10826,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 591,
+									"id": 549,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -10835,7 +10835,7 @@
 									},
 									"signatures": [
 										{
-											"id": 592,
+											"id": 550,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -10844,7 +10844,7 @@
 											},
 											"parameters": [
 												{
-													"id": 593,
+													"id": 551,
 													"name": "data",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -10858,7 +10858,7 @@
 													}
 												},
 												{
-													"id": 594,
+													"id": 552,
 													"name": "element",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -10888,7 +10888,7 @@
 							}
 						},
 						{
-							"id": 581,
+							"id": 539,
 							"name": "handleClose",
 							"kind": 1024,
 							"kindString": "Property",
@@ -10905,7 +10905,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 582,
+									"id": 540,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -10914,7 +10914,7 @@
 									},
 									"signatures": [
 										{
-											"id": 583,
+											"id": 541,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -10938,7 +10938,7 @@
 							}
 						},
 						{
-							"id": 600,
+							"id": 558,
 							"name": "handleEditEvent",
 							"kind": 1024,
 							"kindString": "Property",
@@ -10955,7 +10955,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 601,
+									"id": 559,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -10964,7 +10964,7 @@
 									},
 									"signatures": [
 										{
-											"id": 602,
+											"id": 560,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -10988,7 +10988,7 @@
 							}
 						},
 						{
-							"id": 595,
+							"id": 553,
 							"name": "handleEventClick",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11005,7 +11005,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 596,
+									"id": 554,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -11014,7 +11014,7 @@
 									},
 									"signatures": [
 										{
-											"id": 597,
+											"id": 555,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -11023,7 +11023,7 @@
 											},
 											"parameters": [
 												{
-													"id": 598,
+													"id": 556,
 													"name": "data",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -11037,7 +11037,7 @@
 													}
 												},
 												{
-													"id": 599,
+													"id": 557,
 													"name": "element",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -11067,7 +11067,7 @@
 							}
 						},
 						{
-							"id": 584,
+							"id": 542,
 							"name": "handleRef",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11084,7 +11084,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 585,
+									"id": 543,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -11093,7 +11093,7 @@
 									},
 									"signatures": [
 										{
-											"id": 586,
+											"id": 544,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -11102,7 +11102,7 @@
 											},
 											"parameters": [
 												{
-													"id": 587,
+													"id": 545,
 													"name": "el",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -11141,7 +11141,7 @@
 							}
 						},
 						{
-							"id": 606,
+							"id": 564,
 							"name": "onCellClickHandler",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11158,7 +11158,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 607,
+									"id": 565,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -11167,7 +11167,7 @@
 									},
 									"signatures": [
 										{
-											"id": 608,
+											"id": 566,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -11176,7 +11176,7 @@
 											},
 											"parameters": [
 												{
-													"id": 609,
+													"id": 567,
 													"name": "args",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -11207,7 +11207,7 @@
 							}
 						},
 						{
-							"id": 610,
+							"id": 568,
 							"name": "onEventClickHandler",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11224,7 +11224,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 611,
+									"id": 569,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -11233,7 +11233,7 @@
 									},
 									"signatures": [
 										{
-											"id": 612,
+											"id": 570,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -11242,7 +11242,7 @@
 											},
 											"parameters": [
 												{
-													"id": 613,
+													"id": 571,
 													"name": "args",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -11273,7 +11273,7 @@
 							}
 						},
 						{
-							"id": 579,
+							"id": 537,
 							"name": "popupElement",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11299,7 +11299,7 @@
 							}
 						},
 						{
-							"id": 580,
+							"id": 538,
 							"name": "schedulerElement",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11334,7 +11334,7 @@
 							}
 						},
 						{
-							"id": 577,
+							"id": 535,
 							"name": "setTarget",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11375,7 +11375,7 @@
 							}
 						},
 						{
-							"id": 575,
+							"id": 533,
 							"name": "setVisible",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11407,7 +11407,7 @@
 							}
 						},
 						{
-							"id": 576,
+							"id": 534,
 							"name": "target",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11436,7 +11436,7 @@
 							}
 						},
 						{
-							"id": 574,
+							"id": 532,
 							"name": "visible",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11461,23 +11461,23 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								588,
-								603,
-								578,
-								589,
-								590,
-								581,
-								600,
-								595,
-								584,
-								606,
-								610,
-								579,
-								580,
-								577,
-								575,
-								576,
-								574
+								546,
+								561,
+								536,
+								547,
+								548,
+								539,
+								558,
+								553,
+								542,
+								564,
+								568,
+								537,
+								538,
+								535,
+								533,
+								534,
+								532
 							]
 						}
 					],
@@ -11490,7 +11490,7 @@
 					]
 				},
 				{
-					"id": 558,
+					"id": 516,
 					"name": "UsePopupStateResult",
 					"kind": 256,
 					"kindString": "Interface",
@@ -11503,7 +11503,7 @@
 					},
 					"children": [
 						{
-							"id": 563,
+							"id": 521,
 							"name": "containerRef",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11529,7 +11529,7 @@
 							}
 						},
 						{
-							"id": 566,
+							"id": 524,
 							"name": "handleClose",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11546,7 +11546,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 567,
+									"id": 525,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -11555,7 +11555,7 @@
 									},
 									"signatures": [
 										{
-											"id": 568,
+											"id": 526,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -11579,7 +11579,7 @@
 							}
 						},
 						{
-							"id": 569,
+							"id": 527,
 							"name": "handleRef",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11596,7 +11596,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 570,
+									"id": 528,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -11605,7 +11605,7 @@
 									},
 									"signatures": [
 										{
-											"id": 571,
+											"id": 529,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -11614,7 +11614,7 @@
 											},
 											"parameters": [
 												{
-													"id": 572,
+													"id": 530,
 													"name": "el",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -11653,7 +11653,7 @@
 							}
 						},
 						{
-							"id": 564,
+							"id": 522,
 							"name": "popupElement",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11679,7 +11679,7 @@
 							}
 						},
 						{
-							"id": 565,
+							"id": 523,
 							"name": "schedulerElement",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11714,7 +11714,7 @@
 							}
 						},
 						{
-							"id": 562,
+							"id": 520,
 							"name": "setTarget",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11755,7 +11755,7 @@
 							}
 						},
 						{
-							"id": 560,
+							"id": 518,
 							"name": "setVisible",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11787,7 +11787,7 @@
 							}
 						},
 						{
-							"id": 561,
+							"id": 519,
 							"name": "target",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11816,7 +11816,7 @@
 							}
 						},
 						{
-							"id": 559,
+							"id": 517,
 							"name": "visible",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11841,15 +11841,15 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								563,
-								566,
-								569,
-								564,
-								565,
-								562,
-								560,
-								561,
-								559
+								521,
+								524,
+								527,
+								522,
+								523,
+								520,
+								518,
+								519,
+								517
 							]
 						}
 					],
@@ -11862,7 +11862,7 @@
 					]
 				},
 				{
-					"id": 542,
+					"id": 500,
 					"name": "UseSchedulerPopupsResult",
 					"kind": 256,
 					"kindString": "Interface",
@@ -11875,7 +11875,7 @@
 					},
 					"children": [
 						{
-							"id": 543,
+							"id": 501,
 							"name": "cellEditRef",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11905,7 +11905,7 @@
 							}
 						},
 						{
-							"id": 544,
+							"id": 502,
 							"name": "eventEditRef",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11935,7 +11935,7 @@
 							}
 						},
 						{
-							"id": 545,
+							"id": 503,
 							"name": "handleCellClick",
 							"kind": 1024,
 							"kindString": "Property",
@@ -11955,7 +11955,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 546,
+									"id": 504,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -11964,7 +11964,7 @@
 									},
 									"signatures": [
 										{
-											"id": 547,
+											"id": 505,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -11973,7 +11973,7 @@
 											},
 											"parameters": [
 												{
-													"id": 548,
+													"id": 506,
 													"name": "data",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -11987,7 +11987,7 @@
 													}
 												},
 												{
-													"id": 549,
+													"id": 507,
 													"name": "element",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -12017,7 +12017,7 @@
 							}
 						},
 						{
-							"id": 555,
+							"id": 513,
 							"name": "handleEditEvent",
 							"kind": 1024,
 							"kindString": "Property",
@@ -12037,7 +12037,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 556,
+									"id": 514,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -12046,7 +12046,7 @@
 									},
 									"signatures": [
 										{
-											"id": 557,
+											"id": 515,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -12070,7 +12070,7 @@
 							}
 						},
 						{
-							"id": 550,
+							"id": 508,
 							"name": "handleEventClick",
 							"kind": 1024,
 							"kindString": "Property",
@@ -12090,7 +12090,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 551,
+									"id": 509,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -12099,7 +12099,7 @@
 									},
 									"signatures": [
 										{
-											"id": 552,
+											"id": 510,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -12108,7 +12108,7 @@
 											},
 											"parameters": [
 												{
-													"id": 553,
+													"id": 511,
 													"name": "data",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -12122,7 +12122,7 @@
 													}
 												},
 												{
-													"id": 554,
+													"id": 512,
 													"name": "element",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -12157,11 +12157,11 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								543,
-								544,
-								545,
-								555,
-								550
+								501,
+								502,
+								503,
+								513,
+								508
 							]
 						}
 					],
@@ -12174,7 +12174,7 @@
 					]
 				},
 				{
-					"id": 628,
+					"id": 586,
 					"name": "useEscapeKey",
 					"kind": 32,
 					"kindString": "Variable",
@@ -12207,7 +12207,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 629,
+							"id": 587,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -12216,7 +12216,7 @@
 							},
 							"signatures": [
 								{
-									"id": 630,
+									"id": 588,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -12225,7 +12225,7 @@
 									},
 									"parameters": [
 										{
-											"id": 631,
+											"id": 589,
 											"name": "onClose",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -12235,7 +12235,7 @@
 											"type": {
 												"type": "reflection",
 												"declaration": {
-													"id": 632,
+													"id": 590,
 													"name": "__type",
 													"kind": 65536,
 													"kindString": "Type literal",
@@ -12244,7 +12244,7 @@
 													},
 													"signatures": [
 														{
-															"id": 633,
+															"id": 591,
 															"name": "__call",
 															"kind": 4096,
 															"kindString": "Call signature",
@@ -12285,7 +12285,7 @@
 					}
 				},
 				{
-					"id": 634,
+					"id": 592,
 					"name": "useFocusTrap",
 					"kind": 32,
 					"kindString": "Variable",
@@ -12318,7 +12318,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 635,
+							"id": 593,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -12327,7 +12327,7 @@
 							},
 							"signatures": [
 								{
-									"id": 636,
+									"id": 594,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -12336,7 +12336,7 @@
 									},
 									"parameters": [
 										{
-											"id": 637,
+											"id": 595,
 											"name": "isOpen",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -12372,7 +12372,7 @@
 					}
 				},
 				{
-					"id": 614,
+					"id": 572,
 					"name": "usePopup",
 					"kind": 32,
 					"kindString": "Variable",
@@ -12415,7 +12415,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 615,
+							"id": 573,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -12424,7 +12424,7 @@
 							},
 							"signatures": [
 								{
-									"id": 616,
+									"id": 574,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -12433,7 +12433,7 @@
 									},
 									"parameters": [
 										{
-											"id": 617,
+											"id": 575,
 											"name": "onCellClick",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -12444,7 +12444,7 @@
 											"type": {
 												"type": "reflection",
 												"declaration": {
-													"id": 618,
+													"id": 576,
 													"name": "__type",
 													"kind": 65536,
 													"kindString": "Type literal",
@@ -12453,7 +12453,7 @@
 													},
 													"signatures": [
 														{
-															"id": 619,
+															"id": 577,
 															"name": "__call",
 															"kind": 4096,
 															"kindString": "Call signature",
@@ -12462,7 +12462,7 @@
 															},
 															"parameters": [
 																{
-																	"id": 620,
+																	"id": 578,
 																	"name": "args",
 																	"kind": 32768,
 																	"kindString": "Parameter",
@@ -12493,7 +12493,7 @@
 											}
 										},
 										{
-											"id": 621,
+											"id": 579,
 											"name": "onEventClick",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -12504,7 +12504,7 @@
 											"type": {
 												"type": "reflection",
 												"declaration": {
-													"id": 622,
+													"id": 580,
 													"name": "__type",
 													"kind": 65536,
 													"kindString": "Type literal",
@@ -12513,7 +12513,7 @@
 													},
 													"signatures": [
 														{
-															"id": 623,
+															"id": 581,
 															"name": "__call",
 															"kind": 4096,
 															"kindString": "Call signature",
@@ -12522,7 +12522,7 @@
 															},
 															"parameters": [
 																{
-																	"id": 624,
+																	"id": 582,
 																	"name": "args",
 																	"kind": 32768,
 																	"kindString": "Parameter",
@@ -12553,7 +12553,7 @@
 											}
 										},
 										{
-											"id": 625,
+											"id": 583,
 											"name": "onClose",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -12564,7 +12564,7 @@
 											"type": {
 												"type": "reflection",
 												"declaration": {
-													"id": 626,
+													"id": 584,
 													"name": "__type",
 													"kind": 65536,
 													"kindString": "Type literal",
@@ -12573,7 +12573,7 @@
 													},
 													"signatures": [
 														{
-															"id": 627,
+															"id": 585,
 															"name": "__call",
 															"kind": 4096,
 															"kindString": "Call signature",
@@ -12599,7 +12599,7 @@
 									],
 									"type": {
 										"type": "reference",
-										"id": 573,
+										"id": 531,
 										"name": "UsePopupResult"
 									}
 								}
@@ -12620,18 +12620,18 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						573,
-						558,
-						542
+						531,
+						516,
+						500
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						628,
-						634,
-						614
+						586,
+						592,
+						572
 					]
 				}
 			],
@@ -12644,7 +12644,7 @@
 			]
 		},
 		{
-			"id": 638,
+			"id": 596,
 			"name": "\"scheduler/hooks/useResize.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -12654,7 +12654,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useResize.d.ts",
 			"children": [
 				{
-					"id": 639,
+					"id": 597,
 					"name": "useResize",
 					"kind": 64,
 					"kindString": "Function",
@@ -12664,7 +12664,7 @@
 					},
 					"signatures": [
 						{
-							"id": 640,
+							"id": 598,
 							"name": "useResize",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -12678,7 +12678,7 @@
 							},
 							"parameters": [
 								{
-									"id": 641,
+									"id": 599,
 									"name": "data",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -12715,7 +12715,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						639
+						597
 					]
 				}
 			],
@@ -12728,7 +12728,7 @@
 			]
 		},
 		{
-			"id": 642,
+			"id": 600,
 			"name": "\"scheduler/hooks/useScheduler.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -12738,7 +12738,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useScheduler.d.ts",
 			"children": [
 				{
-					"id": 647,
+					"id": 605,
 					"name": "useOutsideClick",
 					"kind": 32,
 					"kindString": "Variable",
@@ -12781,7 +12781,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 648,
+							"id": 606,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -12790,7 +12790,7 @@
 							},
 							"signatures": [
 								{
-									"id": 649,
+									"id": 607,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -12799,7 +12799,7 @@
 									},
 									"parameters": [
 										{
-											"id": 650,
+											"id": 608,
 											"name": "elementRef",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -12818,7 +12818,7 @@
 											}
 										},
 										{
-											"id": 651,
+											"id": 609,
 											"name": "isOpen",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -12831,7 +12831,7 @@
 											}
 										},
 										{
-											"id": 652,
+											"id": 610,
 											"name": "onOutsideClick",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -12841,7 +12841,7 @@
 											"type": {
 												"type": "reflection",
 												"declaration": {
-													"id": 653,
+													"id": 611,
 													"name": "__type",
 													"kind": 65536,
 													"kindString": "Type literal",
@@ -12850,7 +12850,7 @@
 													},
 													"signatures": [
 														{
-															"id": 654,
+															"id": 612,
 															"name": "__call",
 															"kind": 4096,
 															"kindString": "Call signature",
@@ -12891,7 +12891,7 @@
 					}
 				},
 				{
-					"id": 643,
+					"id": 601,
 					"name": "useScheduler",
 					"kind": 32,
 					"kindString": "Variable",
@@ -12924,7 +12924,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 644,
+							"id": 602,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -12933,7 +12933,7 @@
 							},
 							"signatures": [
 								{
-									"id": 645,
+									"id": 603,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -12942,7 +12942,7 @@
 									},
 									"parameters": [
 										{
-											"id": 646,
+											"id": 604,
 											"name": "props",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -12977,8 +12977,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						647,
-						643
+						605,
+						601
 					]
 				}
 			],
@@ -12991,7 +12991,7 @@
 			]
 		},
 		{
-			"id": 655,
+			"id": 613,
 			"name": "\"scheduler/hooks/useTimeCells.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -13001,7 +13001,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useTimeCells.d.ts",
 			"children": [
 				{
-					"id": 656,
+					"id": 614,
 					"name": "useTimeCells",
 					"kind": 32,
 					"kindString": "Variable",
@@ -13019,7 +13019,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 657,
+							"id": 615,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -13028,7 +13028,7 @@
 							},
 							"signatures": [
 								{
-									"id": 658,
+									"id": 616,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -13037,7 +13037,7 @@
 									},
 									"parameters": [
 										{
-											"id": 659,
+											"id": 617,
 											"name": "props",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -13072,7 +13072,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						656
+						614
 					]
 				}
 			],
@@ -13085,7 +13085,7 @@
 			]
 		},
 		{
-			"id": 660,
+			"id": 618,
 			"name": "\"scheduler/hooks/useTimeIndicator.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -13095,7 +13095,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useTimeIndicator.d.ts",
 			"children": [
 				{
-					"id": 661,
+					"id": 619,
 					"name": "useTimeIndicator",
 					"kind": 32,
 					"kindString": "Variable",
@@ -13113,7 +13113,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 662,
+							"id": 620,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -13122,7 +13122,7 @@
 							},
 							"signatures": [
 								{
-									"id": 663,
+									"id": 621,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -13131,7 +13131,7 @@
 									},
 									"parameters": [
 										{
-											"id": 664,
+											"id": 622,
 											"name": "__namedParameters",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -13142,7 +13142,7 @@
 											"type": {
 												"type": "reflection",
 												"declaration": {
-													"id": 665,
+													"id": 623,
 													"name": "__type",
 													"kind": 65536,
 													"kindString": "Type literal",
@@ -13151,7 +13151,7 @@
 													},
 													"children": [
 														{
-															"id": 668,
+															"id": 626,
 															"name": "endHour",
 															"kind": 32,
 															"kindString": "Variable",
@@ -13171,7 +13171,7 @@
 															}
 														},
 														{
-															"id": 670,
+															"id": 628,
 															"name": "onPositionUpdate",
 															"kind": 32,
 															"kindString": "Variable",
@@ -13188,7 +13188,7 @@
 															"type": {
 																"type": "reflection",
 																"declaration": {
-																	"id": 671,
+																	"id": 629,
 																	"name": "__type",
 																	"kind": 65536,
 																	"kindString": "Type literal",
@@ -13197,7 +13197,7 @@
 																	},
 																	"signatures": [
 																		{
-																			"id": 672,
+																			"id": 630,
 																			"name": "__call",
 																			"kind": 4096,
 																			"kindString": "Call signature",
@@ -13206,7 +13206,7 @@
 																			},
 																			"parameters": [
 																				{
-																					"id": 673,
+																					"id": 631,
 																					"name": "position",
 																					"kind": 32768,
 																					"kindString": "Parameter",
@@ -13219,7 +13219,7 @@
 																					}
 																				},
 																				{
-																					"id": 674,
+																					"id": 632,
 																					"name": "isWithinBounds",
 																					"kind": 32768,
 																					"kindString": "Parameter",
@@ -13242,7 +13242,7 @@
 															}
 														},
 														{
-															"id": 669,
+															"id": 627,
 															"name": "renderDates",
 															"kind": 32,
 															"kindString": "Variable",
@@ -13265,7 +13265,7 @@
 															}
 														},
 														{
-															"id": 666,
+															"id": 624,
 															"name": "showTimeIndicator",
 															"kind": 32,
 															"kindString": "Variable",
@@ -13285,7 +13285,7 @@
 															}
 														},
 														{
-															"id": 667,
+															"id": 625,
 															"name": "startHour",
 															"kind": 32,
 															"kindString": "Variable",
@@ -13310,11 +13310,11 @@
 															"title": "Variables",
 															"kind": 32,
 															"children": [
-																668,
-																670,
-																669,
-																666,
-																667
+																626,
+																628,
+																627,
+																624,
+																625
 															]
 														}
 													],
@@ -13332,7 +13332,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 675,
+											"id": 633,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -13341,7 +13341,7 @@
 											},
 											"children": [
 												{
-													"id": 677,
+													"id": 635,
 													"name": "currentTime",
 													"kind": 32,
 													"kindString": "Variable",
@@ -13361,7 +13361,7 @@
 													}
 												},
 												{
-													"id": 678,
+													"id": 636,
 													"name": "isVisible",
 													"kind": 32,
 													"kindString": "Variable",
@@ -13381,7 +13381,7 @@
 													}
 												},
 												{
-													"id": 679,
+													"id": 637,
 													"name": "isWithinBounds",
 													"kind": 32,
 													"kindString": "Variable",
@@ -13401,7 +13401,7 @@
 													}
 												},
 												{
-													"id": 680,
+													"id": 638,
 													"name": "multiDayViewInfo",
 													"kind": 32,
 													"kindString": "Variable",
@@ -13421,7 +13421,7 @@
 													}
 												},
 												{
-													"id": 676,
+													"id": 634,
 													"name": "position",
 													"kind": 32,
 													"kindString": "Variable",
@@ -13441,7 +13441,7 @@
 													}
 												},
 												{
-													"id": 681,
+													"id": 639,
 													"name": "updatePosition",
 													"kind": 32,
 													"kindString": "Variable",
@@ -13458,7 +13458,7 @@
 													"type": {
 														"type": "reflection",
 														"declaration": {
-															"id": 682,
+															"id": 640,
 															"name": "__type",
 															"kind": 65536,
 															"kindString": "Type literal",
@@ -13467,7 +13467,7 @@
 															},
 															"signatures": [
 																{
-																	"id": 683,
+																	"id": 641,
 																	"name": "__call",
 																	"kind": 4096,
 																	"kindString": "Call signature",
@@ -13496,12 +13496,12 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														677,
-														678,
-														679,
-														680,
-														676,
-														681
+														635,
+														636,
+														637,
+														638,
+														634,
+														639
 													]
 												}
 											],
@@ -13532,7 +13532,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						661
+						619
 					]
 				}
 			],
@@ -13545,7 +13545,7 @@
 			]
 		},
 		{
-			"id": 684,
+			"id": 642,
 			"name": "\"scheduler/hooks/useTimeSlotEvent.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -13555,7 +13555,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useTimeSlotEvent.d.ts",
 			"children": [
 				{
-					"id": 685,
+					"id": 643,
 					"name": "DayEventsWrapper",
 					"kind": 256,
 					"kindString": "Interface",
@@ -13568,7 +13568,7 @@
 					},
 					"children": [
 						{
-							"id": 687,
+							"id": 645,
 							"name": "dateTimestamp",
 							"kind": 1024,
 							"kindString": "Property",
@@ -13591,7 +13591,7 @@
 							}
 						},
 						{
-							"id": 688,
+							"id": 646,
 							"name": "events",
 							"kind": 1024,
 							"kindString": "Property",
@@ -13618,7 +13618,7 @@
 							}
 						},
 						{
-							"id": 686,
+							"id": 644,
 							"name": "key",
 							"kind": 1024,
 							"kindString": "Property",
@@ -13641,7 +13641,7 @@
 							}
 						},
 						{
-							"id": 689,
+							"id": 647,
 							"name": "moreIndicatorTopPx",
 							"kind": 1024,
 							"kindString": "Property",
@@ -13670,10 +13670,10 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								687,
-								688,
-								686,
-								689
+								645,
+								646,
+								644,
+								647
 							]
 						}
 					],
@@ -13686,7 +13686,7 @@
 					]
 				},
 				{
-					"id": 690,
+					"id": 648,
 					"name": "useTimeSlotEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -13714,7 +13714,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 691,
+							"id": 649,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -13723,7 +13723,7 @@
 							},
 							"signatures": [
 								{
-									"id": 692,
+									"id": 650,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -13752,14 +13752,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						685
+						643
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						690
+						648
 					]
 				}
 			],
@@ -13772,7 +13772,7 @@
 			]
 		},
 		{
-			"id": 693,
+			"id": 651,
 			"name": "\"scheduler/hooks/useVerticalView.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -13782,7 +13782,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useVerticalView.d.ts",
 			"children": [
 				{
-					"id": 694,
+					"id": 652,
 					"name": "useVerticalView",
 					"kind": 32,
 					"kindString": "Variable",
@@ -13815,7 +13815,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 695,
+							"id": 653,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -13824,7 +13824,7 @@
 							},
 							"signatures": [
 								{
-									"id": 696,
+									"id": 654,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -13833,7 +13833,7 @@
 									},
 									"parameters": [
 										{
-											"id": 697,
+											"id": 655,
 											"name": "viewType",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -13868,7 +13868,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						694
+						652
 					]
 				}
 			],
@@ -13881,7 +13881,7 @@
 			]
 		},
 		{
-			"id": 698,
+			"id": 656,
 			"name": "\"scheduler/hooks/useWeekDayHeader.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -13891,7 +13891,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useWeekDayHeader.d.ts",
 			"children": [
 				{
-					"id": 699,
+					"id": 657,
 					"name": "WeekDayHeaderCell",
 					"kind": 256,
 					"kindString": "Interface",
@@ -13904,7 +13904,7 @@
 					},
 					"children": [
 						{
-							"id": 702,
+							"id": 660,
 							"name": "className",
 							"kind": 1024,
 							"kindString": "Property",
@@ -13927,7 +13927,7 @@
 							}
 						},
 						{
-							"id": 700,
+							"id": 658,
 							"name": "day",
 							"kind": 1024,
 							"kindString": "Property",
@@ -13950,7 +13950,7 @@
 							}
 						},
 						{
-							"id": 701,
+							"id": 659,
 							"name": "isCurrentDay",
 							"kind": 1024,
 							"kindString": "Property",
@@ -13973,7 +13973,7 @@
 							}
 						},
 						{
-							"id": 703,
+							"id": 661,
 							"name": "key",
 							"kind": 1024,
 							"kindString": "Property",
@@ -14001,10 +14001,10 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								702,
-								700,
-								701,
-								703
+								660,
+								658,
+								659,
+								661
 							]
 						}
 					],
@@ -14017,7 +14017,7 @@
 					]
 				},
 				{
-					"id": 704,
+					"id": 662,
 					"name": "useWeekDayHeader",
 					"kind": 64,
 					"kindString": "Function",
@@ -14027,7 +14027,7 @@
 					},
 					"signatures": [
 						{
-							"id": 705,
+							"id": 663,
 							"name": "useWeekDayHeader",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -14059,14 +14059,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						699
+						657
 					]
 				},
 				{
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						704
+						662
 					]
 				}
 			],
@@ -14079,7 +14079,7 @@
 			]
 		},
 		{
-			"id": 706,
+			"id": 664,
 			"name": "\"scheduler/hooks/useWorkCells.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -14089,7 +14089,7 @@
 			"originalName": "D:/Scheduler/Working-bug/react-schedule-component/src/scheduler/hooks/useWorkCells.d.ts",
 			"children": [
 				{
-					"id": 707,
+					"id": 665,
 					"name": "WorkCell",
 					"kind": 256,
 					"kindString": "Interface",
@@ -14102,7 +14102,7 @@
 					},
 					"children": [
 						{
-							"id": 709,
+							"id": 667,
 							"name": "className",
 							"kind": 1024,
 							"kindString": "Property",
@@ -14125,7 +14125,7 @@
 							}
 						},
 						{
-							"id": 711,
+							"id": 669,
 							"name": "dataAttributes",
 							"kind": 1024,
 							"kindString": "Property",
@@ -14145,7 +14145,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 712,
+									"id": 670,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -14154,7 +14154,7 @@
 									},
 									"children": [
 										{
-											"id": 713,
+											"id": 671,
 											"name": "date",
 											"kind": 32,
 											"kindString": "Variable",
@@ -14174,7 +14174,7 @@
 											}
 										},
 										{
-											"id": 714,
+											"id": 672,
 											"name": "dateKey",
 											"kind": 32,
 											"kindString": "Variable",
@@ -14200,8 +14200,8 @@
 											"title": "Variables",
 											"kind": 32,
 											"children": [
-												713,
-												714
+												671,
+												672
 											]
 										}
 									],
@@ -14216,7 +14216,7 @@
 							}
 						},
 						{
-							"id": 708,
+							"id": 666,
 							"name": "date",
 							"kind": 1024,
 							"kindString": "Property",
@@ -14239,7 +14239,7 @@
 							}
 						},
 						{
-							"id": 718,
+							"id": 676,
 							"name": "isAlternate",
 							"kind": 1024,
 							"kindString": "Property",
@@ -14263,7 +14263,7 @@
 							}
 						},
 						{
-							"id": 716,
+							"id": 674,
 							"name": "isToday",
 							"kind": 1024,
 							"kindString": "Property",
@@ -14286,7 +14286,7 @@
 							}
 						},
 						{
-							"id": 717,
+							"id": 675,
 							"name": "isWeekend",
 							"kind": 1024,
 							"kindString": "Property",
@@ -14309,7 +14309,7 @@
 							}
 						},
 						{
-							"id": 715,
+							"id": 673,
 							"name": "isWorkHour",
 							"kind": 1024,
 							"kindString": "Property",
@@ -14333,7 +14333,7 @@
 							}
 						},
 						{
-							"id": 710,
+							"id": 668,
 							"name": "key",
 							"kind": 1024,
 							"kindString": "Property",
@@ -14361,14 +14361,14 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								709,
-								711,
-								708,
-								718,
-								716,
-								717,
-								715,
-								710
+								667,
+								669,
+								666,
+								676,
+								674,
+								675,
+								673,
+								668
 							]
 						}
 					],
@@ -14381,7 +14381,7 @@
 					]
 				},
 				{
-					"id": 719,
+					"id": 677,
 					"name": "useWorkCells",
 					"kind": 32,
 					"kindString": "Variable",
@@ -14414,7 +14414,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 720,
+							"id": 678,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -14423,7 +14423,7 @@
 							},
 							"signatures": [
 								{
-									"id": 721,
+									"id": 679,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -14432,7 +14432,7 @@
 									},
 									"parameters": [
 										{
-											"id": 722,
+											"id": 680,
 											"name": "props",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -14467,14 +14467,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						707
+						665
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						719
+						677
 					]
 				}
 			],
@@ -28552,7 +28552,7 @@
 										"type": "query",
 										"queryType": {
 											"type": "reference",
-											"id": 308,
+											"id": 266,
 											"name": "useConfirmationDialog"
 										}
 									}
@@ -50760,59 +50760,59 @@
 				1,
 				154,
 				156,
-				211,
-				213,
+				169,
+				171,
+				173,
+				175,
+				177,
+				179,
+				181,
+				183,
+				185,
+				187,
+				189,
+				191,
+				193,
+				2152,
+				2154,
+				2162,
+				2171,
+				204,
+				206,
+				208,
 				215,
 				217,
 				219,
 				221,
 				223,
 				225,
+				681,
+				700,
+				705,
+				714,
 				227,
-				229,
-				231,
 				233,
-				235,
-				2152,
-				2154,
-				2162,
-				2171,
-				246,
-				248,
-				250,
-				257,
-				259,
-				261,
-				263,
-				265,
-				267,
-				169,
-				188,
-				193,
-				202,
-				269,
-				275,
-				297,
-				325,
-				330,
-				343,
-				354,
-				444,
-				449,
-				458,
-				475,
-				515,
-				524,
-				537,
-				541,
-				638,
+				255,
+				283,
+				288,
+				301,
+				312,
+				402,
+				407,
+				416,
+				433,
+				473,
+				482,
+				495,
+				499,
+				596,
+				600,
+				613,
+				618,
 				642,
-				655,
-				660,
-				684,
-				693,
-				698,
-				706,
+				651,
+				656,
+				664,
 				2,
 				3,
 				723,
